@@ -3,6 +3,7 @@
  * GET users listing.
  */
 
-exports.list = function(req, res){
-  res.send("respond with a resource");
-};
+global.register.getApplication().get('/user', function(req, res){
+    res.send("respond with a resource");
+});
+

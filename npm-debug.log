@@ -1,0 +1,668 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   'fs-sync' ]
+2 info using npm@1.2.23
+3 info using node@v0.10.8
+4 verbose read json /home/jangot/server/cms/package.json
+5 warn package.json application-name@0.0.1 No repository field.
+6 warn package.json application-name@0.0.1 No readme data.
+7 verbose read json /home/jangot/server/cms/node_modules/express/package.json
+8 verbose read json /home/jangot/server/cms/node_modules/inherit/package.json
+9 verbose read json /home/jangot/server/cms/node_modules/jade/package.json
+10 verbose read json /home/jangot/server/cms/node_modules/mysql/package.json
+11 verbose read json /home/jangot/server/cms/node_modules/sql-builder/package.json
+12 verbose from cache /home/jangot/server/cms/package.json
+13 verbose readDependencies using package.json deps
+14 verbose cache add [ 'fs-sync', null ]
+15 verbose cache add name=undefined spec="fs-sync" args=["fs-sync",null]
+16 verbose parsed url { protocol: null,
+16 verbose parsed url   slashes: null,
+16 verbose parsed url   auth: null,
+16 verbose parsed url   host: null,
+16 verbose parsed url   port: null,
+16 verbose parsed url   hostname: null,
+16 verbose parsed url   hash: null,
+16 verbose parsed url   search: null,
+16 verbose parsed url   query: null,
+16 verbose parsed url   pathname: 'fs-sync',
+16 verbose parsed url   path: 'fs-sync',
+16 verbose parsed url   href: 'fs-sync' }
+17 silly lockFile 013ff94b-fs-sync fs-sync
+18 verbose lock fs-sync /home/jangot/.npm/013ff94b-fs-sync.lock
+19 silly lockFile 013ff94b-fs-sync fs-sync
+20 silly lockFile 013ff94b-fs-sync fs-sync
+21 verbose addNamed [ 'fs-sync', '' ]
+22 verbose addNamed [ null, '' ]
+23 silly lockFile 3fcd48ca-fs-sync fs-sync@
+24 verbose lock fs-sync@ /home/jangot/.npm/3fcd48ca-fs-sync.lock
+25 silly addNameRange { name: 'fs-sync', range: '', hasData: false }
+26 verbose url raw fs-sync
+27 verbose url resolving [ 'https://npmjs.org/package/', './fs-sync' ]
+28 verbose url resolved https://npmjs.org/package/fs-sync
+29 info trying registry request attempt 1 at 16:48:07
+30 http GET https://npmjs.org/package/fs-sync
+31 http 200 https://npmjs.org/package/fs-sync
+32 verbose bad json <!DOCTYPE html>
+32 verbose bad json <html lang="en">
+32 verbose bad json <head>
+32 verbose bad json   <meta charset="utf-8">
+32 verbose bad json   <title>fs-sync</title>
+32 verbose bad json   <link rel="canonical" href="https://npmjs.org/package/fs-sync">
+32 verbose bad json   <link type="text/css" rel="stylesheet" media="all"
+32 verbose bad json     href="/static/normalize.css">
+32 verbose bad json   <link type="text/css" rel="stylesheet" media="all"
+32 verbose bad json     href="/stylus/index.css">
+32 verbose bad json   <link type="text/css" rel="stylesheet" media="all"
+32 verbose bad json     href="/static/sh.css">
+32 verbose bad json   <link rel="search" type="application/opensearchdescription+xml"
+32 verbose bad json     href="/static/opensearch.xml" title="Search Packages" />
+32 verbose bad json <script>(function(){
+32 verbose bad json if (location.pathname === '/') {
+32 verbose bad json var m = location.hash.match(/^#\/[^\/]*$/)
+32 verbose bad json if (m) location.replace('/package' + m[0].substr(1))
+32 verbose bad json }})()</script>
+32 verbose bad json <body>
+32 verbose bad json   <div id="wrap"><div id="content">
+32 verbose bad json     <nav>
+32 verbose bad json   <ul>
+32 verbose bad json     <li class="home">
+32 verbose bad json       <a href="http://nodejs.org/">Node.js Home</a>
+32 verbose bad json     </li>
+32 verbose bad json     <li class="download">
+32 verbose bad json       <a href="http://nodejs.org/download/">Download</a>
+32 verbose bad json     </li>
+32 verbose bad json     <li class="about">
+32 verbose bad json       <a href="http://nodejs.org/about/">About</a>
+32 verbose bad json     </li>
+32 verbose bad json     <li class="npm current">
+32 verbose bad json       <a href="/">npm Registry</a>
+32 verbose bad json     </li>
+32 verbose bad json     <li class="docs">
+32 verbose bad json       <a href="http://nodejs.org/api/">Docs</a>
+32 verbose bad json     </li>
+32 verbose bad json     <li class="blog">
+32 verbose bad json       <a href="http://blog.nodejs.org/">Blog</a>
+32 verbose bad json     </li>
+32 verbose bad json     <li class="community">
+32 verbose bad json       <a href="http://nodejs.org/community/">Community</a>
+32 verbose bad json     </li>
+32 verbose bad json     <li class="logos">
+32 verbose bad json       <a href="http://nodejs.org/logos/">Logos</a>
+32 verbose bad json     </li>
+32 verbose bad json     <li class="jobs">
+32 verbose bad json       <a href="http://jobs.nodejs.org/">Jobs</a>
+32 verbose bad json     </li>
+32 verbose bad json   </ul>
+32 verbose bad json </nav>
+32 verbose bad json
+32 verbose bad json     <aside class="login">
+32 verbose bad json
+32 verbose bad json     <div class="user profile">
+32 verbose bad json       <img src="https://secure.gravatar.com/avatar/avatar.jpg?s=100&d=mm" class="avatar-medium"> <a href=/signup>Create Account</a> | <a href=/login>Login</a>
+32 verbose bad json     </div>
+32 verbose bad json
+32 verbose bad json </aside>
+32 verbose bad json
+32 verbose bad json
+32 verbose bad json     <div id="page">
+32 verbose bad json       <header>
+32 verbose bad json         <form action="/search" method="get">
+32 verbose bad json
+32 verbose bad json           <input name=q type="search" placeholder="Search Packages">
+32 verbose bad json
+32 verbose bad json         </form>
+32 verbose bad json         <h1>
+32 verbose bad json           <a id="npm-logo" href="/">
+32 verbose bad json             <img src="/static/npm.png" alt="npm">
+32 verbose bad json           </a>
+32 verbose bad json         </h1>
+32 verbose bad json       </header>
+32 verbose bad json
+32 verbose bad json
+32 verbose bad json
+32 verbose bad json
+32 verbose bad json   <div id="package">
+32 verbose bad json     <h1>fs-sync</h1>
+32 verbose bad json
+32 verbose bad json
+32 verbose bad json
+32 verbose bad json
+32 verbose bad json       <p class="description">synchronous fs with more fun</p>
+32 verbose bad json
+32 verbose bad json
+32 verbose bad json     <pre class="sh"><code>npm install fs-sync</code></pre>
+32 verbose bad json
+32 verbose bad json
+32 verbose bad json   <table class="downloads">
+32 verbose bad json
+32 verbose bad json     <tr><td>1</td><td> downloads in the last week</td></tr>
+32 verbose bad json <tr><td>1</td><td> downloads in the last month</td></tr>
+32 verbose bad json   </table>
+32 verbose bad json
+32 verbose bad json
+32 verbose bad json
+32 verbose bad json     <table class="metadata">
+32 verbose bad json
+32 verbose bad json       <tr>
+32 verbose bad json         <th>Maintainers</th>
+32 verbose bad json         <td>
+32 verbose bad json
+32 verbose bad json           <div class="user">
+32 verbose bad json           <a class="username" href="/~kael"><img src="https://secure.gravatar.com/avatar/0c63668a9481496b32642b7eb6b3af9a?s=50&amp;d=retro" class="avatar">
+32 verbose bad json             kael</a>
+32 verbose bad json           </div>
+32 verbose bad json
+32 verbose bad json         </td>
+32 verbose bad json       </tr>
+32 verbose bad json
+32 verbose bad json       <tr>
+32 verbose bad json         <th>Version</th>
+32 verbose bad json         <td>
+32 verbose bad json           <b>
+32 verbose bad json           0.0.4
+32 verbose bad json           </b>
+32 verbose bad json
+32 verbose bad json           last updated
+32 verbose bad json           an hour ago
+32 verbose bad json
+32 verbose bad json         </td>
+32 verbose bad json       </tr>
+32 verbose bad json
+32 verbose bad json       <tr>
+32 verbose bad json         <th>License</th>
+32 verbose bad json         <td>
+32 verbose bad json             <a href="http://opensource.org/licenses/BSD-2-Clause">BSD</a>
+32 verbose bad json         </td>
+32 verbose bad json       </tr>
+32 verbose bad json
+32 verbose bad json
+32 verbose bad json       <tr>
+32 verbose bad json         <th>Keywords</th>
+32 verbose bad json         <td><a href="/browse/keyword/fs">fs</a>, <a href="/browse/keyword/fs-sync">fs-sync</a>, <a href="/browse/keyword/sync">sync</a>, <a href="/browse/keyword/synchronous fs">synchronous fs</a>, <a href="/browse/keyword/copy">copy</a>, <a href="/browse/keyword/mkdir">mkdir</a>, <a href="/browse/keyword/mkdirp">mkdirp</a>, <a href="/browse/keyword/write">write</a>, <a href="/browse/keyword/read">read</a>, <a href="/browse/keyword/readJSON">readJSON</a>, <a href="/browse/keyword/isDir">isDir</a>, <a href="/browse/keyword/isFile">isFile</a>, <a href="/browse/keyword/isLink">isLink</a>, <a href="/browse/keyword/exists">exists</a>, <a href="/browse/keyword/grunt file">grunt file</a>, <a href="/browse/keyword/delete">delete</a>, <a href="/browse/keyword/expand">expand</a></td>
+32 verbose bad json       </tr>
+32 verbose bad json
+32 verbose bad json
+32 verbose bad json
+32 verbose bad json
+32 verbose bad json       <tr>
+32 verbose bad json
+32 verbose bad json         <th>Dependencies</th>
+32 verbose bad json         <td>
+32 verbose bad json
+32 verbose bad json               <a href="/package/mkdirp">mkdirp</a>,
+32 verbose bad json               <a href="/package/iconv-lite">iconv-lite</a>,
+32 verbose bad json               <a href="/package/lodash">lodash</a>,
+32 verbose bad json               <a href="/package/glob">glob</a>,
+32 verbose bad json               <a href="/package/rimraf">rimraf</a>
+32 verbose bad json         </td>
+32 verbose bad json       </tr>
+32 verbose bad json
+32 verbose bad json       <tr>
+32 verbose bad json         <th>Dependents</th>
+32 verbose bad json         <td>
+32 verbose bad json         <a href="/package/cortex-profile">cortex-profile</a>
+32 verbose bad json         </td>
+32 verbose bad json       </tr>
+32 verbose bad json
+32 verbose bad json
+32 verbose bad json
+32 verbose bad json     </table>
+32 verbose bad json
+32 verbose bad json     <div class="details">
+32 verbose bad json       <ul class="toc">
+32 verbose bad json
+32 verbose bad json         <li><a href="#readme">Read Me</a></li>
+32 verbose bad json
+32 verbose bad json       </ul>
+32 verbose bad json
+32 verbose bad json
+32 verbose bad json       <section id="readme">
+32 verbose bad json       <h1>fs-sync</h1>
+32 verbose bad json <blockquote>
+32 verbose bad json <p>Synchronous fs with more fun</p>
+32 verbose bad json </blockquote>
+32 verbose bad json <h2>Getting Started</h2>
+32 verbose bad json <p>This module is created for the favor of use of <code>fs.xxxSync</code>.</p>
+32 verbose bad json <p>Once <code>fs-sync</code> is installed, you can use:</p>
+32 verbose bad json <pre><code>var fs = require(&#39;fs-sync&#39;);
+32 verbose bad json
+32 verbose bad json if(fs.exists(&#39;package.json&#39;)){
+32 verbose bad json     var pkg = fs.readJSON(&#39;package.json&#39;);
+32 verbose bad json }
+32 verbose bad json
+32 verbose bad json // You can also use methods of the built-in `fs`
+32 verbose bad json
+32 verbose bad json fs.readFileSync(...);</code></pre>
+32 verbose bad json <h2>Methods</h2>
+32 verbose bad json <pre><code>var fs = require(&#39;fs-sync&#39;);</code></pre>
+32 verbose bad json <h3>fs.defaultEncoding</h3>
+32 verbose bad json <p>Type: <code>String</code></p>
+32 verbose bad json <p>Default value: <code>&#39;utf-8&#39;</code></p>
+32 verbose bad json <p>Global default encoding</p>
+32 verbose bad json <pre><code>fs.defaultEncoding = &#39;utf-8&#39;</code></pre>
+32 verbose bad json <h3>fs.copy()</h3>
+32 verbose bad json <p>Copy a file or a whole directory to the destination. During this, necessary directories will be created.</p>
+32 verbose bad json <h4>Syntax</h4>
+32 verbose bad json <pre><code>fs.copy(file, destpath, options);
+32 verbose bad json fs.copy(dir, destpath, options);</code></pre>
+32 verbose bad json <h4>file</h4>
+32 verbose bad json <p>Type: <code>String</code></p>
+32 verbose bad json <p>Path of file to be copied</p>
+32 verbose bad json <h4>dir</h4>
+32 verbose bad json <p>Type: <code>String</code></p>
+32 verbose bad json <p>Path of directory to be copied</p>
+32 verbose bad json <h4>options.force</h4>
+32 verbose bad json <p>Type: <code>Boolean</code></p>
+32 verbose bad json <p>Default value: <code>false</code></p>
+32 verbose bad json <p>By default, <code>fs.copy</code> will not override existed files, set <code>options.force</code> as <code>true</code> to override.</p>
+32 verbose bad json <h3>fs.mkdir()</h3>
+32 verbose bad json <p>Commandline <code>mkdir</code> or <code>mkdir -p</code></p>
+32 verbose bad json <h3>fs.expand(patterns, options)</h3>
+32 verbose bad json <p>Like <code>grunt.file.expand</code>, but the sequence of the arguments is different</p>
+32 verbose bad json <h3>fs.write(file, content, options)</h3>
+32 verbose bad json <h4>options</h4>
+32 verbose bad json <p>Type: <code>Object</code></p>
+32 verbose bad json <p>The same as the <code>options</code> argument of <a href="http://nodejs.org/api/fs.html#fs_fs_writefile_filename_data_options_callback">fs.writeFile</a></p>
+32 verbose bad json <h3>fs.read(file, options)</h3>
+32 verbose bad json <p>Read a file</p>
+32 verbose bad json <h4>options</h4>
+32 verbose bad json <p>Type: <code>Object</code></p>
+32 verbose bad json <p>The same as the <code>options</code> argument of <a href="http://nodejs.org/api/fs.html#fs_fs_readfile_filename_options_callback">fs.writeFile</a>, except:</p>
+32 verbose bad json <h4>options.encoding</h4>
+32 verbose bad json <p>Type: <code>String</code></p>
+32 verbose bad json <p>Default value: <code>fs.defaultEncoding</code></p>
+32 verbose bad json <h3>fs.readJSON(file, options)</h3>
+32 verbose bad json <p>Read a file as the JSON format, if the file content fails to be parsed as JSON, an error will be thrown.</p>
+32 verbose bad json <h3>fs.delete()</h3>
+32 verbose bad json <p>Delete a file or a whole directory. It&#39;s a dangerous action, be careful.</p>
+32 verbose bad json <h4>Syntax</h4>
+32 verbose bad json <pre><code>fs.delete(file)
+32 verbose bad json fs.delete(dir)</code></pre>
+32 verbose bad json <h3>fs.exists()</h3>
+32 verbose bad json <p><code>arguments</code> will be called with <code>path.join</code></p>
+32 verbose bad json <h3>fs.isDir()</h3>
+32 verbose bad json <h3>fs.isFile()</h3>
+32 verbose bad json <h3>fs.isLink()</h3>
+32 verbose bad json
+32 verbose bad json       </section>
+32 verbose bad json
+32 verbose bad json     </div>
+32 verbose bad json   </div>
+32 verbose bad json
+32 verbose bad json     </div>
+32 verbose bad json   </div></div>
+32 verbose bad json
+32 verbose bad json <div id="footer">
+32 verbose bad json   <a class="footlogo" href="/">npm</a>
+32 verbose bad json
+32 verbose bad json   <ul>
+32 verbose bad json     <li><a href="/">npm Registry</a>
+32 verbose bad json     <li><a href="/doc/">Documentation</a>
+32 verbose bad json     <li><a href="https://raw.github.com/isaacs/npm/master/LICENSE">License</a>
+32 verbose bad json     <li><a href="https://github.com/isaacs/npm-www/issues">Website Issues</a>
+32 verbose bad json     <li><a href="http://nodejs.org/">Node.js Home</a>
+32 verbose bad json     <li><a href="http://blog.nodejs.org/">Blog</a>
+32 verbose bad json   </ul>
+32 verbose bad json
+32 verbose bad json   <div class="poweredby">
+32 verbose bad json     <h2>Powered By:</h2>
+32 verbose bad json     <ul>
+32 verbose bad json       <li class="joyent">
+32 verbose bad json         <a href="http://joyent.com/"><img src="/static/joyent-footer.png"
+32 verbose bad json         alt="Joyent"
+32 verbose bad json         height=32 width=88></a>
+32 verbose bad json       <li class="iriscouch">
+32 verbose bad json         <a href="http://iriscouch.com/"><img src="/static/iriscouch-footer.png"
+32 verbose bad json         alt="IrisCouch"
+32 verbose bad json         height=32 width=115></a>
+32 verbose bad json     </ul>
+32 verbose bad json   </div>
+32 verbose bad json </div>
+32 verbose bad json
+32 verbose bad json <small class="heart">npm loves you</small>
+32 verbose bad json
+32 verbose bad json <script src="/static/sh_main.js"></script>
+32 verbose bad json <script src="/static/sh_javascript.min.js"></script>
+32 verbose bad json <script>highlight(undefined, undefined, 'pre');</script>
+32 verbose bad json <script>
+32 verbose bad json window._gaq = [['_setAccount', 'UA-10874194-2'], ['_trackPageview']]
+32 verbose bad json ;(function(d, t) {
+32 verbose bad json   var g = d.createElement(t)
+32 verbose bad json   var s = d.getElementsByTagName(t)[0]
+32 verbose bad json   g.src = '//www.google-analytics.com/ga.js'
+32 verbose bad json   s.parentNode.insertBefore(g, s)
+32 verbose bad json }(document, 'script'))
+32 verbose bad json </script>
+32 verbose bad json <!-- pid=78784 worker=30 2de29b2b5b43a960e94752341656c30c39e53d90 https://npmjs.org:10030 -->
+33 error registry error parsing json
+34 silly registry.get cb [ 200,
+34 silly registry.get   { 'strict-transport-security': '2592000000',
+34 silly registry.get     'set-cookie':
+34 silly registry.get      [ 's=UscAxPnWnAzOLG9e7NZYPpms3atyPQFVIA7wG0ku; path=/; secure; httponly',
+34 silly registry.get        's.sig=34zQ4I3VFJuX4mjJgiii55cchDw; path=/; secure; httponly' ],
+34 silly registry.get     etag: '"VxN0XPfjTd7Eh5HfmmV7U26at9A="',
+34 silly registry.get     'x-templar-stamp': 'pid=78784 worker=30 2de29b2b5b43a960e94752341656c30c39e53d90 https://npmjs.org:10030',
+34 silly registry.get     'content-type': 'text/html',
+34 silly registry.get     date: 'Thu, 30 May 2013 12:48:23 GMT',
+34 silly registry.get     connection: 'keep-alive',
+34 silly registry.get     'transfer-encoding': 'chunked' } ]
+35 silly lockFile 3fcd48ca-fs-sync fs-sync@
+36 silly lockFile 3fcd48ca-fs-sync fs-sync@
+37 error SyntaxError: Unexpected token <
+37 error <!DOCTYPE html>
+37 error <html lang="en">
+37 error <head>
+37 error   <meta charset="utf-8">
+37 error   <title>fs-sync</title>
+37 error   <link rel="canonical" href="https://npmjs.org/package/fs-sync">
+37 error   <link type="text/css" rel="stylesheet" media="all"
+37 error     href="/static/normalize.css">
+37 error   <link type="text/css" rel="stylesheet" media="all"
+37 error     href="/stylus/index.css">
+37 error   <link type="text/css" rel="stylesheet" media="all"
+37 error     href="/static/sh.css">
+37 error   <link rel="search" type="application/opensearchdescription+xml"
+37 error     href="/static/opensearch.xml" title="Search Packages" />
+37 error <script>(function(){
+37 error if (location.pathname === '/') {
+37 error var m = location.hash.match(/^#\/[^\/]*$/)
+37 error if (m) location.replace('/package' + m[0].substr(1))
+37 error }})()</script>
+37 error <body>
+37 error   <div id="wrap"><div id="content">
+37 error     <nav>
+37 error   <ul>
+37 error     <li class="home">
+37 error       <a href="http://nodejs.org/">Node.js Home</a>
+37 error     </li>
+37 error     <li class="download">
+37 error       <a href="http://nodejs.org/download/">Download</a>
+37 error     </li>
+37 error     <li class="about">
+37 error       <a href="http://nodejs.org/about/">About</a>
+37 error     </li>
+37 error     <li class="npm current">
+37 error       <a href="/">npm Registry</a>
+37 error     </li>
+37 error     <li class="docs">
+37 error       <a href="http://nodejs.org/api/">Docs</a>
+37 error     </li>
+37 error     <li class="blog">
+37 error       <a href="http://blog.nodejs.org/">Blog</a>
+37 error     </li>
+37 error     <li class="community">
+37 error       <a href="http://nodejs.org/community/">Community</a>
+37 error     </li>
+37 error     <li class="logos">
+37 error       <a href="http://nodejs.org/logos/">Logos</a>
+37 error     </li>
+37 error     <li class="jobs">
+37 error       <a href="http://jobs.nodejs.org/">Jobs</a>
+37 error     </li>
+37 error   </ul>
+37 error </nav>
+37 error
+37 error     <aside class="login">
+37 error
+37 error     <div class="user profile">
+37 error       <img src="https://secure.gravatar.com/avatar/avatar.jpg?s=100&d=mm" class="avatar-medium"> <a href=/signup>Create Account</a> | <a href=/login>Login</a>
+37 error     </div>
+37 error
+37 error </aside>
+37 error
+37 error
+37 error     <div id="page">
+37 error       <header>
+37 error         <form action="/search" method="get">
+37 error
+37 error           <input name=q type="search" placeholder="Search Packages">
+37 error
+37 error         </form>
+37 error         <h1>
+37 error           <a id="npm-logo" href="/">
+37 error             <img src="/static/npm.png" alt="npm">
+37 error           </a>
+37 error         </h1>
+37 error       </header>
+37 error
+37 error
+37 error
+37 error
+37 error   <div id="package">
+37 error     <h1>fs-sync</h1>
+37 error
+37 error
+37 error
+37 error
+37 error       <p class="description">synchronous fs with more fun</p>
+37 error
+37 error
+37 error     <pre class="sh"><code>npm install fs-sync</code></pre>
+37 error
+37 error
+37 error   <table class="downloads">
+37 error
+37 error     <tr><td>1</td><td> downloads in the last week</td></tr>
+37 error <tr><td>1</td><td> downloads in the last month</td></tr>
+37 error   </table>
+37 error
+37 error
+37 error
+37 error     <table class="metadata">
+37 error
+37 error       <tr>
+37 error         <th>Maintainers</th>
+37 error         <td>
+37 error
+37 error           <div class="user">
+37 error           <a class="username" href="/~kael"><img src="https://secure.gravatar.com/avatar/0c63668a9481496b32642b7eb6b3af9a?s=50&amp;d=retro" class="avatar">
+37 error             kael</a>
+37 error           </div>
+37 error
+37 error         </td>
+37 error       </tr>
+37 error
+37 error       <tr>
+37 error         <th>Version</th>
+37 error         <td>
+37 error           <b>
+37 error           0.0.4
+37 error           </b>
+37 error
+37 error           last updated
+37 error           an hour ago
+37 error
+37 error         </td>
+37 error       </tr>
+37 error
+37 error       <tr>
+37 error         <th>License</th>
+37 error         <td>
+37 error             <a href="http://opensource.org/licenses/BSD-2-Clause">BSD</a>
+37 error         </td>
+37 error       </tr>
+37 error
+37 error
+37 error       <tr>
+37 error         <th>Keywords</th>
+37 error         <td><a href="/browse/keyword/fs">fs</a>, <a href="/browse/keyword/fs-sync">fs-sync</a>, <a href="/browse/keyword/sync">sync</a>, <a href="/browse/keyword/synchronous fs">synchronous fs</a>, <a href="/browse/keyword/copy">copy</a>, <a href="/browse/keyword/mkdir">mkdir</a>, <a href="/browse/keyword/mkdirp">mkdirp</a>, <a href="/browse/keyword/write">write</a>, <a href="/browse/keyword/read">read</a>, <a href="/browse/keyword/readJSON">readJSON</a>, <a href="/browse/keyword/isDir">isDir</a>, <a href="/browse/keyword/isFile">isFile</a>, <a href="/browse/keyword/isLink">isLink</a>, <a href="/browse/keyword/exists">exists</a>, <a href="/browse/keyword/grunt file">grunt file</a>, <a href="/browse/keyword/delete">delete</a>, <a href="/browse/keyword/expand">expand</a></td>
+37 error       </tr>
+37 error
+37 error
+37 error
+37 error
+37 error       <tr>
+37 error
+37 error         <th>Dependencies</th>
+37 error         <td>
+37 error
+37 error               <a href="/package/mkdirp">mkdirp</a>,
+37 error               <a href="/package/iconv-lite">iconv-lite</a>,
+37 error               <a href="/package/lodash">lodash</a>,
+37 error               <a href="/package/glob">glob</a>,
+37 error               <a href="/package/rimraf">rimraf</a>
+37 error         </td>
+37 error       </tr>
+37 error
+37 error       <tr>
+37 error         <th>Dependents</th>
+37 error         <td>
+37 error         <a href="/package/cortex-profile">cortex-profile</a>
+37 error         </td>
+37 error       </tr>
+37 error
+37 error
+37 error
+37 error     </table>
+37 error
+37 error     <div class="details">
+37 error       <ul class="toc">
+37 error
+37 error         <li><a href="#readme">Read Me</a></li>
+37 error
+37 error       </ul>
+37 error
+37 error
+37 error       <section id="readme">
+37 error       <h1>fs-sync</h1>
+37 error <blockquote>
+37 error <p>Synchronous fs with more fun</p>
+37 error </blockquote>
+37 error <h2>Getting Started</h2>
+37 error <p>This module is created for the favor of use of <code>fs.xxxSync</code>.</p>
+37 error <p>Once <code>fs-sync</code> is installed, you can use:</p>
+37 error <pre><code>var fs = require(&#39;fs-sync&#39;);
+37 error
+37 error if(fs.exists(&#39;package.json&#39;)){
+37 error     var pkg = fs.readJSON(&#39;package.json&#39;);
+37 error }
+37 error
+37 error // You can also use methods of the built-in `fs`
+37 error
+37 error fs.readFileSync(...);</code></pre>
+37 error <h2>Methods</h2>
+37 error <pre><code>var fs = require(&#39;fs-sync&#39;);</code></pre>
+37 error <h3>fs.defaultEncoding</h3>
+37 error <p>Type: <code>String</code></p>
+37 error <p>Default value: <code>&#39;utf-8&#39;</code></p>
+37 error <p>Global default encoding</p>
+37 error <pre><code>fs.defaultEncoding = &#39;utf-8&#39;</code></pre>
+37 error <h3>fs.copy()</h3>
+37 error <p>Copy a file or a whole directory to the destination. During this, necessary directories will be created.</p>
+37 error <h4>Syntax</h4>
+37 error <pre><code>fs.copy(file, destpath, options);
+37 error fs.copy(dir, destpath, options);</code></pre>
+37 error <h4>file</h4>
+37 error <p>Type: <code>String</code></p>
+37 error <p>Path of file to be copied</p>
+37 error <h4>dir</h4>
+37 error <p>Type: <code>String</code></p>
+37 error <p>Path of directory to be copied</p>
+37 error <h4>options.force</h4>
+37 error <p>Type: <code>Boolean</code></p>
+37 error <p>Default value: <code>false</code></p>
+37 error <p>By default, <code>fs.copy</code> will not override existed files, set <code>options.force</code> as <code>true</code> to override.</p>
+37 error <h3>fs.mkdir()</h3>
+37 error <p>Commandline <code>mkdir</code> or <code>mkdir -p</code></p>
+37 error <h3>fs.expand(patterns, options)</h3>
+37 error <p>Like <code>grunt.file.expand</code>, but the sequence of the arguments is different</p>
+37 error <h3>fs.write(file, content, options)</h3>
+37 error <h4>options</h4>
+37 error <p>Type: <code>Object</code></p>
+37 error <p>The same as the <code>options</code> argument of <a href="http://nodejs.org/api/fs.html#fs_fs_writefile_filename_data_options_callback">fs.writeFile</a></p>
+37 error <h3>fs.read(file, options)</h3>
+37 error <p>Read a file</p>
+37 error <h4>options</h4>
+37 error <p>Type: <code>Object</code></p>
+37 error <p>The same as the <code>options</code> argument of <a href="http://nodejs.org/api/fs.html#fs_fs_readfile_filename_options_callback">fs.writeFile</a>, except:</p>
+37 error <h4>options.encoding</h4>
+37 error <p>Type: <code>String</code></p>
+37 error <p>Default value: <code>fs.defaultEncoding</code></p>
+37 error <h3>fs.readJSON(file, options)</h3>
+37 error <p>Read a file as the JSON format, if the file content fails to be parsed as JSON, an error will be thrown.</p>
+37 error <h3>fs.delete()</h3>
+37 error <p>Delete a file or a whole directory. It&#39;s a dangerous action, be careful.</p>
+37 error <h4>Syntax</h4>
+37 error <pre><code>fs.delete(file)
+37 error fs.delete(dir)</code></pre>
+37 error <h3>fs.exists()</h3>
+37 error <p><code>arguments</code> will be called with <code>path.join</code></p>
+37 error <h3>fs.isDir()</h3>
+37 error <h3>fs.isFile()</h3>
+37 error <h3>fs.isLink()</h3>
+37 error
+37 error       </section>
+37 error
+37 error     </div>
+37 error   </div>
+37 error
+37 error     </div>
+37 error   </div></div>
+37 error
+37 error <div id="footer">
+37 error   <a class="footlogo" href="/">npm</a>
+37 error
+37 error   <ul>
+37 error     <li><a href="/">npm Registry</a>
+37 error     <li><a href="/doc/">Documentation</a>
+37 error     <li><a href="https://raw.github.com/isaacs/npm/master/LICENSE">License</a>
+37 error     <li><a href="https://github.com/isaacs/npm-www/issues">Website Issues</a>
+37 error     <li><a href="http://nodejs.org/">Node.js Home</a>
+37 error     <li><a href="http://blog.nodejs.org/">Blog</a>
+37 error   </ul>
+37 error
+37 error   <div class="poweredby">
+37 error     <h2>Powered By:</h2>
+37 error     <ul>
+37 error       <li class="joyent">
+37 error         <a href="http://joyent.com/"><img src="/static/joyent-footer.png"
+37 error         alt="Joyent"
+37 error         height=32 width=88></a>
+37 error       <li class="iriscouch">
+37 error         <a href="http://iriscouch.com/"><img src="/static/iriscouch-footer.png"
+37 error         alt="IrisCouch"
+37 error         height=32 width=115></a>
+37 error     </ul>
+37 error   </div>
+37 error </div>
+37 error
+37 error <small class="heart">npm loves you</small>
+37 error
+37 error <script src="/static/sh_main.js"></script>
+37 error <script src="/static/sh_javascript.min.js"></script>
+37 error <script>highlight(undefined, undefined, 'pre');</script>
+37 error <script>
+37 error window._gaq = [['_setAccount', 'UA-10874194-2'], ['_trackPageview']]
+37 error ;(function(d, t) {
+37 error   var g = d.createElement(t)
+37 error   var s = d.getElementsByTagName(t)[0]
+37 error   g.src = '//www.google-analytics.com/ga.js'
+37 error   s.parentNode.insertBefore(g, s)
+37 error }(document, 'script'))
+37 error </script>
+37 error <!-- pid=78784 worker=30 2de29b2b5b43a960e94752341656c30c39e53d90 https://npmjs.org:10030 -->
+37 error
+37 error
+37 error     at Object.parse (native)
+37 error     at RegClient.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:238:23)
+37 error     at Request.self.callback (/usr/local/lib/node_modules/npm/node_modules/request/index.js:148:22)
+37 error     at Request.EventEmitter.emit (events.js:98:17)
+37 error     at Request.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/request/index.js:876:14)
+37 error     at Request.EventEmitter.emit (events.js:117:20)
+37 error     at IncomingMessage.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/request/index.js:827:12)
+37 error     at IncomingMessage.EventEmitter.emit (events.js:117:20)
+37 error     at _stream_readable.js:910:16
+37 error     at process._tickCallback (node.js:415:13)
+38 error If you need help, you may report this log at:
+38 error     <http://github.com/isaacs/npm/issues>
+38 error or email it to:
+38 error     <npm-@googlegroups.com>
+39 error System Linux 3.8.0-19-generic
+40 error command "/usr/local/bin/node" "/usr/local/bin/npm" "install" "fs-sync"
+41 error cwd /home/jangot/server/cms
+42 error node -v v0.10.8
+43 error npm -v 1.2.23
+44 error type unexpected_token
+45 verbose exit [ 1, true ]

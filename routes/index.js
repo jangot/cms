@@ -3,6 +3,6 @@
  * GET home page.
  */
 
-exports.index = function(req, res){
-  res.render('index', { title: 'Express' });
-};
+global.register.getApplication().get('/', function(req, res){
+    res.render('index', { title: 'Express' });
+});

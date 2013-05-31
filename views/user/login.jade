@@ -1,0 +1,11 @@
+extends ../layout
+
+block content
+  form(action="/user/login", method="post")
+      label
+          input(type="text", name="name", value="jangot")
+          | Name
+      label
+          input(type="text", name="password", value="111")
+          | Password
+      input(type="submit", value="Send")

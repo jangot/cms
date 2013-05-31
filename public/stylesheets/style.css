@@ -1,8 +1,66 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1em;
 }
 
-a {
-  color: #00B7FF;
+html {
+    font-size: 100.01%;
+    height: 100%;
+}
+body {
+    font-size: 62.5%;
+    font-family:monospace;
+    height:100%;
+    background: #2e2e2e;
+    color: chartreuse;
+}
+
+.main {
+    width: 800px;
+    margin: 0 auto;
+    height: 100%;
+}
+
+.content {
+    margin: 20px;
+    font-size: 1.4em;
+}
+
+h1, h2, h3, h4, h5 {
+    font-weight: 900;
+    margin-bottom: 0.5em;
+    background: #555555;
+    padding: 5px;
+}
+p {
+    margin-bottom: 0.5em;
+    padding: 5px;
+}
+
+h1 {
+    font-size: 2em;
+}
+h2 {
+    font-size: 1.8em;
+}
+h3 {
+    font-size: 1.6em;
+}
+h4 {
+    font-size: 1.4em;
+}
+h5 {
+    font-size: 1.2em;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+label input {
+    margin-right: 10px;
 }

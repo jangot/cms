@@ -6,14 +6,9 @@
 
 require('./constants/global');
 
-global.Class = require('./lib/node-inherit');
-
-
-
-
+global.Class = require('inherit');
 global.register = require('./lib/register');
-var bootstrap = require('./bootstrap');
-bootstrap.run();
+require('./bootstrap').run();
 
 
 

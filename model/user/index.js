@@ -1,5 +1,5 @@
 var AbstractIndex = require('../abstract/index');
-var db = require(global.LIB_PATH + '/db');
+var db = require(global.LIB_PATH + '/db/index');
 
 module.exports = global.Class(AbstractIndex, {
 
@@ -16,7 +16,7 @@ module.exports = global.Class(AbstractIndex, {
         }
         var client = db.getClient();
 
-        var query = "SELECT * FROM user WHERE name = '" + login + "' AND pass = '" + password + "'";
+        var query = "SELECT * FROM user WHERE name = '" + login + "' AND password = '" + password + "'";
         client.query(query, function(error, result, fields) {
             if (error || !result.length) {
                 callback(true);

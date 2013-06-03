@@ -38,6 +38,14 @@ module.exports = inherit({
 
     toString : function (){
         return JSON.stringify(this._list);
+    },
+
+    toArray : function() {
+        var result = [];
+        for (var id in this._list) {
+            result.push(this._list[id].getData());
+        }
+        return result;
     }
 
 });

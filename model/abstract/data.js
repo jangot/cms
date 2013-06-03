@@ -18,14 +18,18 @@ module.exports = global.Class({
         return this[name];
     },
 
-    toString : function (){
+    getParams : function() {
         var result = {};
         for (var name in this) {
             if (typeof this[name] !== 'function') {
                 result[name] = this[name];
             }
         }
-        return JSON.stringify(result);
+        return result;
+    },
+
+    toString : function (){
+        return JSON.stringify(this.getParams());
     },
 
     _checkData : function (data){

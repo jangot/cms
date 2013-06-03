@@ -19,6 +19,13 @@ body {
     color: chartreuse;
 }
 
+a {
+    color: chartreuse;
+}
+a:hover {
+    color: #E9DC51;
+}
+
 .main {
     width: 800px;
     margin: 0 auto;
@@ -63,4 +70,13 @@ label {
 }
 label input {
     margin-right: 10px;
+}
+
+table {
+    border-collapse: collapse;
+}
+table td,
+table th {
+    padding: 5px;
+    border: 1px #E9DC51 solid;
 }

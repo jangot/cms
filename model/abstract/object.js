@@ -11,6 +11,10 @@ module.exports = global.Class({
         return this._data.getId();
     },
 
+    getData : function() {
+        return this._data.getParams();
+    },
+
     toString : function (){
         return this._data.toString();
     },

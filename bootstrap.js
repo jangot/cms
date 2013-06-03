@@ -55,10 +55,16 @@ module.exports = {
         var routersFiles = fs.readdirSync(global.ROUTERS_PATH);
 
         var routes = [];
+        var routeRE = /Route.js$/;
+
         for (var i in routersFiles) {
             var rout = require(global.ROUTERS_PATH + '/' + routersFiles[i]);
+
+            if (!routeRE.test(routersFiles[i])) {
+                continue;
+            }
             if (rout.name === undefined) {
-                rout.name = routersFiles[i].split('.js')[0];
+                rout.name = routersFiles[i].split(routeRE)[0];
             }
             routes.push(rout);
         }

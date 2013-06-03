@@ -1,0 +1,9 @@
+extends ../layout
+
+block content
+    h1= title
+    div.guitarList
+        each guitar in list
+            h3
+                a(href="/guitars/item/#{guitar.id}")= guitar.id
+            include ../widget/guitars/item

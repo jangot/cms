@@ -2,6 +2,8 @@ var AbstractData = require('../abstract/data');
 
 module.exports = global.Class(AbstractData, {
 
-    name : null
+    title : null,
+    body : null,
+    url : null
 
 });

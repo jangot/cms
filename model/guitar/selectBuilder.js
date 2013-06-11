@@ -19,9 +19,9 @@ module.exports = global.Class(AbstractSelectBuilder, {
         var where = '';
         for (var i = 0; i < this._ids.length; i++) {
             if (!where) {
-                where = 'g.id' + ' = ' + this._ids[i];
+                where = 'g.id' + ' = ' + Number(this._ids[i]);
             } else {
-                where += ' OR g.id' + ' = ' + this._ids[i];
+                where += ' OR g.id' + ' = ' + Number(this._ids[i]);
             }
         }
         query.where(where);
@@ -29,6 +29,17 @@ module.exports = global.Class(AbstractSelectBuilder, {
         var result = query.toString();
 
         return result;
+    },
+
+    getAddSql : function(data) {
+        var insert = this._getInsert();
+        delete data.id;
+
+        insert
+            .into(DB_TABLE_GUITAR)
+            .values(data)
+        ;
+        return insert;
     }
 
 });

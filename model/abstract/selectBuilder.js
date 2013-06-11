@@ -20,6 +20,11 @@ module.exports = global.Class({
     _getSelect : function (){
         var Select = require('sql-builder').select;
         return new Select();
+    },
+
+    _getInsert : function() {
+        var Insert = require('sql-builder').insert;
+        return new Insert();
     }
 
 });

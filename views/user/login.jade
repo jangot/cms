@@ -2,10 +2,12 @@ extends ../layout
 
 block content
   form(action="/user/login", method="post")
-      label
-          input(type="text", name="name", value="jangot")
+      label(data-name='name')
           | Name
-      label
-          input(type="text", name="password", value="111")
+          input(type="text", name="name", value="jangot")
+          span.errorBlock
+      label(data-name='password')
           | Password
+          input(type="text", name="password", value="111")
+          span.errorBlock
       input(type="submit", value="Send")

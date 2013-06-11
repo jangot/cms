@@ -1,6 +1,5 @@
 var common = require('../lib/common');
 var path = require('path');
-path.join(__dirname, 'public')
 
 common.defines({
     VIEWS_PATH : path.join(__dirname, '../views'),
@@ -23,6 +22,10 @@ common.defines({
     },
     DB_TABLE_GUITAR : 'guitar',
     DB_TABLE_USER : 'user',
-    DB_TABEL_RESOURCE : 'resource'
+    DB_TABEL_RESOURCE : 'resource',
+    DB_TABLE_MATERIAL : 'material',
+    DB_TABLE_BRAND : 'brands',
 
+    HTTP_ERROR_SERVER : '500',
+    HTTP_ERROR_FORM : '450'
 });

@@ -35,22 +35,19 @@ module.exports = {
         } else {
             next();
         }
+    },
+
+    'all ' : function(req, res, next) {
+        res.redirect('/guitars');
+    },
+
+    'all :route/:template' : function(req, res, next) {
+        res.template = req.params.route + '/' + req.params.template;
+        next();
+    },
+    'all :route/:template/*' : function(req, res, next) {
+        res.template = req.params.route + '/' + req.params.template;
+        next();
     }
-//    ,
-//
-//    'all :route?' : function(req, res, next) {
-//        if(systemRoutes[req.params.route]) {
-//            next();
-//            return;
-//        }
-//        var cms = new CMS(req, res, next);
-//        cms.run(function(e) {
-//            if (e) {
-//                res.send('Sorry, we\'re screwed.');
-//            } else {
-//                console.log('Cms is ok.');
-//            }
-//        });
-//    }
 }
 

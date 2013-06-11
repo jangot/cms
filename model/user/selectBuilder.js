@@ -13,9 +13,9 @@ module.exports = global.Class(AbstractSelectBuilder, {
         var where = '';
         for (var i = 0; i < this._ids.length; i++) {
             if (!where) {
-                where = 'user.id' + ' = ' + this._ids[i];
+                where = 'user.id' + ' = ' + Number(this._ids[i]);
             } else {
-                where += ' OR user.id' + ' = ' + this._ids[i];
+                where += ' OR user.id' + ' = ' + Number(this._ids[i]);
             }
         }
 

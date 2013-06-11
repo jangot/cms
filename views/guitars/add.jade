@@ -1,0 +1,31 @@
+extends ../layout
+
+block content
+  div
+    a(href='/guitars/list')
+        | Назад к списку
+    hr
+  form(action="/guitars/add", method="post")
+      label(data-name='model')
+          | Model
+          input(type="text", name="model", value='')
+          span.errorBlock
+      label(data-name='brand')
+          | Brand
+          select(name='brand')
+              each brand in brands
+                  option(value=brand.id)= brand.name
+          span.errorBlock
+      label(data-name='neck_material')
+          | Neck material
+          select(name='neck_material')
+              each material in materials
+                option(value=material.id)= material.name
+          span.errorBlock
+      label(data-name='deck_material')
+          | Deck material
+          select(name='deck_material')
+              each material in materials
+                  option(value=material.id)= material.name
+          span.errorBlock
+      input(type="submit", value="Send")

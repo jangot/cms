@@ -2,8 +2,11 @@ extends ../layout
 
 block content
     h1= title
+    div
+        a(href='/guitars/add') Добавить
+        hr
     div.guitarList
         each guitar in list
             h3
-                a(href="/guitars/item/#{guitar.id}")= guitar.id
+                a(href="/guitars/item/#{guitar.id}") #{guitar.id} #{guitar.model}
             include ../widget/guitars/item

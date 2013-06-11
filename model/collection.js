@@ -23,17 +23,25 @@ module.exports = inherit({
         this._list[id] = ob;
         this.length++;
 
-        cb(undefined);
+        if(cb) {
+            cb(undefined);
+        }
         return this;
     },
 
     getById : function (id, cb) {
         if (!this._list[id]) {
-            cb(Error('Object with id "'+ id +'" not found.'))
-            return;
+            var error = Error('Object with id "'+ id +'" not found.');
+            if (cb) {
+                cb(error);
+                return;
+            }
+            throw error;
         }
-        cb(undefined, this._list[id]);
-        return this;
+        if (cb) {
+            cb(undefined, this._list[id]);
+        }
+        return this._list[id];
     },
 
     toString : function (){
@@ -43,7 +51,11 @@ module.exports = inherit({
     toArray : function() {
         var result = [];
         for (var id in this._list) {
-            result.push(this._list[id].getData());
+            if (typeof this._list[id].getData == 'function') {
+                result.push(this._list[id].getData());
+            } else {
+                result.push(this._list[id]);
+            }
         }
         return result;
     }

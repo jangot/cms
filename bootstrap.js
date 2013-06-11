@@ -25,15 +25,37 @@ module.exports = {
         app.set('views', global.VIEWS_PATH);
         app.set('view engine', 'jade');
         app.disable('strict routing');
-        app.use(express.favicon());
+        //app.use(express.favicon());
         app.use(express.logger('dev'));
         app.use(express.bodyParser());
         app.use(express.methodOverride());
         app.use(express.cookieParser('42'));
         app.use(express.session());
         app.use(express.static(global.PUBLIC_PATH));
-        app.use(app.router);
+        app.use(function(req, res, next) {
+            req.ajax = (req.headers['x-requested-with'] == 'XMLHttpRequest');
 
+            var redirect = res.redirect;
+            res.redirect = function(url) {
+                if (req.ajax) {
+                    res.send(url);
+                } else {
+                    redirect.apply(res, arguments);
+                }
+            }
+            next();
+        });
+        app.use(function(req, res, next) {
+            res.view = {};
+            res.template = null;
+            next();
+        });
+        app.use(app.router);
+        app.use(function(req, res, next) {
+            if (res.template) {
+                res.render(res.template, res.view);
+            }
+        })
 
         // development only
         if ('development' == app.get('env')) {
@@ -74,6 +96,7 @@ module.exports = {
         });
 
         var app = this._register.getApplication();
+        console.log('\n::Routes');
         for (var i = 0; i < routes.length; i ++) {
             var routeList = routes[i];
 
@@ -81,7 +104,9 @@ module.exports = {
                 var params = key.split(' ');
 
                 if (typeof app[params[0]] == 'function') {
+
                     console.log('/' + routeList.name + params[1]);
+
                     if (typeof routeList[key] == 'function') {
                         app[params[0]]('/' + routeList.name + params[1], routeList[key].bind(routeList));
                     } else {
@@ -100,7 +125,7 @@ module.exports = {
     _createServer : function() {
         var app = this._register.getApplication();
         require('http').createServer(app).listen(app.get('port'), function(){
-            console.log('Express server listening on port ' + app.get('port'));
+            console.log('::Express server listening on port ' + app.get('port'));
         });
 
         return this;

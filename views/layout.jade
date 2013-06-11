@@ -1,9 +1,24 @@
 doctype 5
 html
   head
+    link(rel='icon', href='/favicon.ico')
     title= title
     link(rel='stylesheet', href='/stylesheets/style.css')
+    script(src='/js/lib/jquery-2.0.2.min.js')
+    script(src='/js/lib/jquery.form.min.js')
+    //script(src='/js/lib/jquerymx-3.2.custom.min.js')
+    script(src='/js/constants.js')
+    script(src='/js/index.js')
   body
     div.main
       div.content
+        header
+          ul
+            li
+              a(href='/user')
+                | К профилю
+            li
+              a(href='/guitars')
+                | К инструментам
+          hr
         block content

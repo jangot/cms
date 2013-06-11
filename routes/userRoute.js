@@ -1,5 +1,5 @@
-var UserService = require(global.MODEL_PATH + '/user');
-var Response = require(global.LIB_PATH + '/response');
+var UserService = require(MODEL_PATH + '/user');
+var FormAuth = require(LIB_PATH + '/forms/auth');
 
 module.exports = {
 
@@ -8,7 +8,7 @@ module.exports = {
     'all /:action?' : function(req, res, next) {
         if (req.params.action == 'login') {
             next();
-        } else if(!req[global.CURRENT_USER]){
+        } else if(!req[CURRENT_USER]){
             res.redirect('/user/login');
         } else {
             next();
@@ -20,28 +20,34 @@ module.exports = {
     },
 
     'get /home' : function(req, res, next) {
-        var response = new Response(1);
-        response.setBody(req[global.CURRENT_USER].getData());
-        res.send(response.toString());
+        res.view.title = 'Страница пользователя';
+        res.view['user'] = req[CURRENT_USER].getData();
+        next();
     },
 
-    'get /login' : function(req, res) {
-        res.render('user/login', {
-            title: 'Express'
-        });
+    'get /login' : function(req, res, next) {
+        res.view = {title: 'Авторизация пользователя'};
+        next();
     },
 
     'post /login' : function(req, res){
-        var service = new UserService();
-
-        service.auth(req.body.name, req.body.password, function(e, userId) {
-            if (!e || userId) {
-                req.session.user_id = userId;
-            }
-            var response = new Response(1);
-            response.setBody({id:userId});
-            res.send(response.toString());
-        });
+        var form = new FormAuth();
+        form
+            .setData(req.body)
+            .validate(function(e, messages) {
+                if(e) {
+                    res.status(HTTP_ERROR_FORM).send(messages);
+                } else {
+                    var service = new UserService();
+                    service.auth(req.body.name, req.body.password, function(e, userId) {
+                        if (!e || userId) {
+                            req.session.user_id = userId;
+                        }
+                        res.redirect('/user/home');
+                    });
+                }
+            })
+        ;
     }
 }
 

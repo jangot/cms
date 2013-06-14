@@ -8,7 +8,7 @@ block content
   form(action="/guitars/add", method="post")
       label(data-name='model')
           | Model
-          input(type="text", name="model", value='')
+          input(type="text", name="model", value='Goo')
           span.errorBlock
       label(data-name='brand')
           | Brand
@@ -27,5 +27,9 @@ block content
           select(name='deck_material')
               each material in materials
                   option(value=material.id)= material.name
+          span.errorBlock
+      label(data-name='photo')
+          | Photos
+          input(type='file', name='photo')
           span.errorBlock
       input(type="submit", value="Send")

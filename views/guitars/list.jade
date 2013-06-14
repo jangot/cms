@@ -8,5 +8,5 @@ block content
     div.guitarList
         each guitar in list
             h3
-                a(href="/guitars/item/#{guitar.id}") #{guitar.id} #{guitar.model}
+                a(href="/guitars/item/#{guitar.id}")  #{guitar.model}
             include ../widget/guitars/item

@@ -11,6 +11,9 @@ common.defines({
 
     WIDGET_PATH : path.join(__dirname, '../views/widget'),
 
+    IMAGES_FOLDER : path.join(__dirname, '../public/images/users'),
+    PUBLIC_IMAGES_FOLDER : '/images/users',
+
     CURRENT_USER : 'currentUser',
     ACL_RESOURCES : [
         'content',

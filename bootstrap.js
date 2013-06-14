@@ -33,6 +33,14 @@ module.exports = {
         app.use(express.session());
         app.use(express.static(global.PUBLIC_PATH));
         app.use(function(req, res, next) {
+            if (req.body && req.files) {
+                for (var name in req.files) {
+                    req.body[name] = req.files[name];
+                }
+            }
+            next();
+        });
+        app.use(function(req, res, next) {
             req.ajax = (req.headers['x-requested-with'] == 'XMLHttpRequest');
 
             var redirect = res.redirect;
@@ -53,6 +61,7 @@ module.exports = {
         app.use(app.router);
         app.use(function(req, res, next) {
             if (res.template) {
+                res.view.USER_PHOTO_FOLDER = PUBLIC_IMAGES_FOLDER;
                 res.render(res.template, res.view);
             }
         })

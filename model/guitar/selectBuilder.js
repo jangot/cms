@@ -7,6 +7,7 @@ module.exports = global.Class(AbstractSelectBuilder, {
         query
             .select('g.id')
             .select('model')
+            .select('photo')
             .select('b.name AS brand')
             .select('n_m.name as neck_material')
             .select('d_m.name as deck_material')

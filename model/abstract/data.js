@@ -15,7 +15,8 @@ module.exports = global.Class({
     },
 
     getParam : function (name){
-        return this[name];
+        var params = this.getParams();
+        return params[name];
     },
 
     getParams : function() {

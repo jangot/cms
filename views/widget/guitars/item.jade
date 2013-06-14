@@ -1,12 +1,17 @@
 div.guitarItem
-    table
+    table(data-id=guitar.id)
         tr
             th brand
             th name
             th neck
             th deck
+            th photo
         tr
             td= guitar.brand
             td= guitar.model
             td= guitar.neck_material
             td= guitar.deck_material
+            td
+                - var photo = 'default.png';
+                - if (guitar.photo) photo = guitar.photo;
+                img(src='#{USER_PHOTO_FOLDER}/#{photo}', width='200')

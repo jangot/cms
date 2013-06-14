@@ -2,6 +2,8 @@ var GuitarService = require(MODEL_PATH + '/guitar');
 var ListService = require(MODEL_PATH + '/list');
 var async = require('async');
 var FormAddGuitar = require(LIB_PATH + '/forms/guitars');
+var copyFile = require(LIB_PATH + '/copyFile');
+var uuid = require(LIB_PATH + '/uuid');
 
 module.exports = {
 
@@ -59,7 +61,7 @@ module.exports = {
                 arr.unshift({
                     id : 0,
                     name : '-- select --'
-                })
+                });
                 res.view[name] = arr;
             }
             next();
@@ -67,23 +69,43 @@ module.exports = {
     },
 
     'post /add' : function(req, res, next) {
+        var fs = require('fs');
+        var service = new GuitarService();
+
         var form = new FormAddGuitar();
-        form
-            .setData(req.body)
-            .validate(function(e, messages) {
-                if(e) {
-                    res.status(HTTP_ERROR_FORM).send(messages);
+        form.setData(req.body);
+
+        var series = [
+            form.validate.bind(form),
+            function(result, cb) {
+                form.getData(cb);
+            },
+            function(result, cb) {
+                if (result.photo) {
+                    fs.rename(result.photo.path, result.photo.pathForSave, function(e) {
+                        result.photo = result.photo.newFileName;
+                        cb(e, result);
+                    });
                 } else {
-                    var service = new GuitarService();
-                    service.add(req.body, function(e) {
-                        if(e) {
-                            res.status(HTTP_ERROR_SERVER).send(e.message);
-                        }
-                        res.redirect('/'+ this.name +'/list');
-                    }.bind(this));
+                    cb(null, result);
                 }
-            }.bind(this))
-        ;
+            },
+            service.add.bind(service)
+        ];
+
+        async.waterfall(series, function(e, result) {
+            if(e) {
+                if (e.code == HTTP_ERROR_FORM) {
+                    res.status(HTTP_ERROR_FORM).send(result);
+                } else {
+                    res.status(HTTP_ERROR_SERVER).send(e.message);
+                }
+                return;
+            }
+
+            res.redirect('/'+ this.name +'/list');
+        }.bind(this));
+
     },
 
     'all ': function(req, res, next) {

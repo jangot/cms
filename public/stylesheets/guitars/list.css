@@ -1,0 +1,32 @@
+.guitarList {
+
+}
+
+.guitarList .guitarItem {
+    overflow: hidden;
+}
+
+.guitarList .guitarItem .photo {
+    float: left;
+
+}
+
+.guitarList .guitarItem .photo img {
+    width: 200px;
+}
+
+.guitarList .guitarItem ul {
+    padding-left: 300px;
+}
+
+.guitarList .guitarItem li {
+    position: relative;
+}
+
+.guitarList .guitarItem li .label {
+    position: absolute;
+    top: 0;
+    right: 100%;
+    margin-right: 10px;
+    color: #00B7FF;
+}

@@ -1,0 +1,25 @@
+- var current = Boolean(currentUsers[name]);
+if current
+    tr.currnet
+        td= name
+            td= stats[name].distribution
+            -var seeFlop = stats[name].calculate.seeFlop.num + ' / ' + stats[name].calculate.seeFlop.interest + '%'
+            td= seeFlop
+            td= stats[name].close
+            - var open_win = stats[name].open.all + ' / ' + stats[name].open.win;
+            td= open_win
+            td
+                a(href=name, class='remove')
+                    | X
+else
+    tr
+        td= name
+        td= stats[name].distribution
+        -var seeFlop = stats[name].calculate.seeFlop.num + ' / ' + stats[name].calculate.seeFlop.interest + '%'
+        td= seeFlop
+        td= stats[name].close
+        - var open_win = stats[name].open.all + ' / ' + stats[name].open.win;
+        td= open_win
+        td
+            a(href=name, class='remove')
+                | X

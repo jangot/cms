@@ -6,6 +6,7 @@ module.exports = global.Class(AbstractData, {
     deck_material : null,
     brand : null,
     model : null,
-    photo : null
+    photo : null,
+    price : null
 
 });

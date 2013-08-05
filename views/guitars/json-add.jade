@@ -1,0 +1,21 @@
+extends ../layout
+
+block content
+  div
+    a(href='/guitars/list')
+        | Назад к списку
+    hr
+  form(action="/guitars/jadd", method="post")
+      - for (var name in params.items)
+          label= params.items[name].name
+              -if (params.items[name].type == 1)
+                  select(name=params.items[name].name)
+                      each option in params.items[name].options
+                            option= option
+              -if (params.items[name].type == 2)
+                  - var value = params.items[name].options[0] + '-' + params.items[name].options[1];
+                  input(type="text", name=params.items[name].name, value=value)
+              -if (params.items[name].type == 3)
+                  input(type="checkbox", name=params.items[name].name, value="1")
+
+      input(type="submit", value="Send")

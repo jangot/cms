@@ -1,0 +1,11 @@
+{
+  "name": "JPokerStats",
+  "version": "0.0.1",
+  "description": "Take and parse stat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jangot",
+  "license": "BSD"
+}

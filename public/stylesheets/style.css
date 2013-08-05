@@ -1,3 +1,6 @@
+@import "./poker.css";
+@import "./guitars/list.css";
+@import "./guitars/item.css";
 * {
     padding: 0;
     margin: 0;
@@ -13,17 +16,17 @@ html {
 }
 body {
     font-size: 62.5%;
-    font-family:monospace;
+    font-family: SANS-SERIF;
     height:100%;
-    background: #2e2e2e;
-    color: chartreuse;
+    background: #fafafa;
+    color: #4A5147;
 }
 
 a {
-    color: chartreuse;
+    color: #7F74C6;
 }
 a:hover {
-    color: #E9DC51;
+    color: #625A99;
 }
 
 .main {
@@ -43,15 +46,23 @@ a:hover {
 
 hr {
     margin: 0.5em 0 1em;
-    border-color: #555555;
+    border-color: #4A5147;
 }
 
 h1, h2, h3, h4, h5 {
     font-weight: 900;
     margin-top: 1em;
     margin-bottom: 0.5em;
-    background: #555555;
+    background: #4A5147;
+    color:#DBDBDB;
     padding: 5px;
+    border-radius: 5px;
+}
+h1 a, h2 a, h3 a, h4 a, h5 a {
+    color:#DBDBDB;
+}
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {
+    color:#AAA6C5;
 }
 p {
     margin-bottom: 0.5em;

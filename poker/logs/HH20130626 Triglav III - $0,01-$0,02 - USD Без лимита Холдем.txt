@@ -1,0 +1,845 @@
+﻿PokerStars Hand #100595511360:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 11:03:42 ET
+Table 'Triglav III' 9-max Seat #9 is the button
+Seat 1: robertjuliat ($2.13 in chips) 
+Seat 2: Alukardo787 ($1.69 in chips) 
+Seat 4: LUIS4915 ($2.39 in chips) 
+Seat 5: vihanka ($0.78 in chips) 
+Seat 6: Sageroth ($2.12 in chips) 
+Seat 8: LinPu ($1.60 in chips) 
+Seat 9: JANJAN07 ($1.97 in chips) 
+robertjuliat: posts small blind $0.01
+Alukardo787: posts big blind $0.02
+LinPu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [6s 2c]
+LUIS4915: folds 
+vihanka: calls $0.02
+Sageroth: folds 
+LinPu: checks 
+JANJAN07: folds 
+robertjuliat: folds 
+Alukardo787: checks 
+*** FLOP *** [6d Kd Kc]
+Alukardo787: checks 
+vihanka: bets $0.02
+LinPu: folds 
+Alukardo787: folds 
+Uncalled bet ($0.02) returned to vihanka
+vihanka collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [6d Kd Kc]
+Seat 1: robertjuliat (small blind) folded before Flop
+Seat 2: Alukardo787 (big blind) folded on the Flop
+Seat 4: LUIS4915 folded before Flop (didn't bet)
+Seat 5: vihanka collected ($0.07)
+Seat 6: Sageroth folded before Flop (didn't bet)
+Seat 8: LinPu folded on the Flop
+Seat 9: JANJAN07 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100595536257:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 11:04:20 ET
+Table 'Triglav III' 9-max Seat #1 is the button
+Seat 1: robertjuliat ($2.12 in chips) 
+Seat 2: Alukardo787 ($1.67 in chips) 
+Seat 4: LUIS4915 ($2.39 in chips) 
+Seat 5: vihanka ($0.83 in chips) 
+Seat 6: Sageroth ($2.12 in chips) 
+Seat 8: LinPu ($1.58 in chips) 
+Seat 9: JANJAN07 ($1.97 in chips) 
+Alukardo787: posts small blind $0.01
+LUIS4915: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [3h Kd]
+vihanka: folds 
+Sageroth: raises $0.04 to $0.06
+LinPu: folds 
+JANJAN07: folds 
+robertjuliat: folds 
+amoreks leaves the table
+Alukardo787: folds 
+LUIS4915: folds 
+Uncalled bet ($0.04) returned to Sageroth
+Alukardo787 leaves the table
+Sageroth collected $0.05 from pot
+Sageroth: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: robertjuliat (button) folded before Flop (didn't bet)
+Seat 2: Alukardo787 (small blind) folded before Flop
+Seat 4: LUIS4915 (big blind) folded before Flop
+Seat 5: vihanka folded before Flop (didn't bet)
+Seat 6: Sageroth collected ($0.05)
+Seat 8: LinPu folded before Flop (didn't bet)
+Seat 9: JANJAN07 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100595552068:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 11:04:44 ET
+Table 'Triglav III' 9-max Seat #4 is the button
+Seat 1: robertjuliat ($2.12 in chips) 
+Seat 4: LUIS4915 ($2.37 in chips) 
+Seat 5: vihanka ($0.83 in chips) 
+Seat 6: Sageroth ($2.15 in chips) 
+Seat 8: LinPu ($1.58 in chips) 
+Seat 9: JANJAN07 ($1.97 in chips) 
+vihanka: posts small blind $0.01
+Sageroth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [3h Kd]
+LinPu: folds 
+JANJAN07: folds 
+robertjuliat: folds 
+LUIS4915: raises $0.04 to $0.06
+vihanka: folds 
+Sageroth: folds 
+Uncalled bet ($0.04) returned to LUIS4915
+LUIS4915 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: robertjuliat folded before Flop (didn't bet)
+Seat 4: LUIS4915 (button) collected ($0.05)
+Seat 5: vihanka (small blind) folded before Flop
+Seat 6: Sageroth (big blind) folded before Flop
+Seat 8: LinPu folded before Flop (didn't bet)
+Seat 9: JANJAN07 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100595568204:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 11:05:09 ET
+Table 'Triglav III' 9-max Seat #5 is the button
+Seat 1: robertjuliat ($2.12 in chips) 
+Seat 4: LUIS4915 ($2.40 in chips) 
+Seat 5: vihanka ($0.82 in chips) 
+Seat 6: Sageroth ($2.13 in chips) 
+Seat 8: LinPu ($1.58 in chips) 
+Seat 9: JANJAN07 ($1.97 in chips) 
+Sageroth: posts small blind $0.01
+LinPu: posts big blind $0.02
+jimz1024: sits out 
+*** HOLE CARDS ***
+Dealt to LinPu [6s 6c]
+JANJAN07: folds 
+robertjuliat: raises $0.06 to $0.08
+LUIS4915: folds 
+vihanka: calls $0.08
+Sageroth: folds 
+LinPu: folds 
+*** FLOP *** [8c 7d 5c]
+robertjuliat: checks 
+vihanka: checks 
+*** TURN *** [8c 7d 5c] [Qs]
+robertjuliat: bets $0.08
+vihanka: calls $0.08
+*** RIVER *** [8c 7d 5c Qs] [Ac]
+robertjuliat: bets $0.18
+vihanka: folds 
+Uncalled bet ($0.18) returned to robertjuliat
+robertjuliat collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [8c 7d 5c Qs Ac]
+Seat 1: robertjuliat collected ($0.34)
+Seat 4: LUIS4915 folded before Flop (didn't bet)
+Seat 5: vihanka (button) folded on the River
+Seat 6: Sageroth (small blind) folded before Flop
+Seat 8: LinPu (big blind) folded before Flop
+Seat 9: JANJAN07 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100595603334:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 11:06:02 ET
+Table 'Triglav III' 9-max Seat #6 is the button
+Seat 1: robertjuliat ($2.30 in chips) 
+Seat 4: LUIS4915 ($2.40 in chips) 
+Seat 5: vihanka ($0.66 in chips) 
+Seat 6: Sageroth ($2.12 in chips) 
+Seat 8: LinPu ($1.56 in chips) 
+Seat 9: JANJAN07 ($1.97 in chips) 
+LinPu: posts small blind $0.01
+JANJAN07: posts big blind $0.02
+jimz1024: sits out 
+*** HOLE CARDS ***
+Dealt to LinPu [Qs 4s]
+robertjuliat: folds 
+LUIS4915: raises $0.04 to $0.06
+vihanka: calls $0.06
+Sageroth: folds 
+LinPu: folds 
+JANJAN07: folds 
+*** FLOP *** [7s 9c 3h]
+LUIS4915: bets $0.08
+vihanka: calls $0.08
+*** TURN *** [7s 9c 3h] [Ks]
+Kleppiej joins the table at seat #7 
+LUIS4915: checks 
+vihanka: bets $0.12
+reivaj491 joins the table at seat #2 
+LUIS4915: folds 
+Uncalled bet ($0.12) returned to vihanka
+vihanka collected $0.30 from pot
+vihanka: shows [Kd 9h] (two pair, Kings and Nines)
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [7s 9c 3h Ks]
+Seat 1: robertjuliat folded before Flop (didn't bet)
+Seat 4: LUIS4915 folded on the Turn
+Seat 5: vihanka collected ($0.30)
+Seat 6: Sageroth (button) folded before Flop (didn't bet)
+Seat 8: LinPu (small blind) folded before Flop
+Seat 9: JANJAN07 (big blind) folded before Flop
+
+
+
+PokerStars Hand #100595632354:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 11:06:46 ET
+Table 'Triglav III' 9-max Seat #8 is the button
+Seat 1: robertjuliat ($2.30 in chips) 
+Seat 4: LUIS4915 ($2.60 in chips) 
+Seat 5: vihanka ($0.82 in chips) 
+Seat 6: Sageroth ($2.12 in chips) 
+Seat 8: LinPu ($1.55 in chips) 
+Seat 9: JANJAN07 ($1.95 in chips) 
+JANJAN07: posts small blind $0.01
+robertjuliat: posts big blind $0.02
+reivaj491: sits out 
+jimz1024: sits out 
+Kleppiej: sits out 
+*** HOLE CARDS ***
+Dealt to LinPu [9s 8d]
+LUIS4915: raises $0.04 to $0.06
+vihanka: calls $0.06
+Sageroth: folds 
+LinPu: folds 
+JANJAN07: folds 
+robertjuliat: folds 
+*** FLOP *** [3d 2d 9h]
+LUIS4915: checks 
+vihanka: checks 
+*** TURN *** [3d 2d 9h] [8h]
+LUIS4915: checks 
+vihanka: bets $0.08
+LUIS4915: folds 
+Uncalled bet ($0.08) returned to vihanka
+vihanka collected $0.14 from pot
+vihanka: shows [8s 8c] (three of a kind, Eights)
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [3d 2d 9h 8h]
+Seat 1: robertjuliat (big blind) folded before Flop
+Seat 4: LUIS4915 folded on the Turn
+Seat 5: vihanka collected ($0.14)
+Seat 6: Sageroth folded before Flop (didn't bet)
+Seat 8: LinPu (button) folded before Flop (didn't bet)
+Seat 9: JANJAN07 (small blind) folded before Flop
+
+
+
+PokerStars Hand #100595663355:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 11:07:33 ET
+Table 'Triglav III' 9-max Seat #9 is the button
+Seat 1: robertjuliat ($2.28 in chips) 
+Seat 2: reivaj491 ($3.58 in chips) 
+Seat 4: LUIS4915 ($2.54 in chips) 
+Seat 5: vihanka ($0.90 in chips) 
+Seat 6: Sageroth ($2.12 in chips) 
+Seat 7: Kleppiej ($2 in chips) 
+Seat 8: LinPu ($1.55 in chips) 
+Seat 9: JANJAN07 ($1.94 in chips) 
+robertjuliat: posts small blind $0.01
+reivaj491: posts big blind $0.02
+jimz1024: sits out 
+Kleppiej: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [Ts Th]
+LUIS4915: folds 
+vihanka: folds 
+Sageroth: folds 
+Kleppiej: checks 
+LinPu: raises $0.06 to $0.08
+JANJAN07: folds 
+robertjuliat: folds 
+reivaj491: folds 
+Kleppiej: folds 
+Uncalled bet ($0.06) returned to LinPu
+LinPu collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: robertjuliat (small blind) folded before Flop
+Seat 2: reivaj491 (big blind) folded before Flop
+Seat 4: LUIS4915 folded before Flop (didn't bet)
+Seat 5: vihanka folded before Flop (didn't bet)
+Seat 6: Sageroth folded before Flop (didn't bet)
+Seat 7: Kleppiej folded before Flop
+Seat 8: LinPu collected ($0.07)
+Seat 9: JANJAN07 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100595682895:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 11:08:03 ET
+Table 'Triglav III' 9-max Seat #1 is the button
+Seat 1: robertjuliat ($2.27 in chips) 
+Seat 2: reivaj491 ($3.58 in chips) 
+Seat 3: jimz1024 ($10.07 in chips) 
+Seat 4: LUIS4915 ($2.54 in chips) 
+Seat 5: vihanka ($0.90 in chips) 
+Seat 6: Sageroth ($2.12 in chips) 
+Seat 7: Kleppiej ($1.98 in chips) 
+Seat 8: LinPu ($1.60 in chips) 
+Seat 9: JANJAN07 ($1.94 in chips) 
+reivaj491: posts small blind $0.01
+jimz1024: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [2d 4c]
+LUIS4915: folds 
+vihanka: folds 
+Sageroth: folds 
+Kleppiej: folds 
+LinPu: folds 
+JANJAN07: raises $0.06 to $0.08
+robertjuliat: folds 
+reivaj491: folds 
+jimz1024: folds 
+Uncalled bet ($0.06) returned to JANJAN07
+JANJAN07 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: robertjuliat (button) folded before Flop (didn't bet)
+Seat 2: reivaj491 (small blind) folded before Flop
+Seat 3: jimz1024 (big blind) folded before Flop
+Seat 4: LUIS4915 folded before Flop (didn't bet)
+Seat 5: vihanka folded before Flop (didn't bet)
+Seat 6: Sageroth folded before Flop (didn't bet)
+Seat 7: Kleppiej folded before Flop (didn't bet)
+Seat 8: LinPu folded before Flop (didn't bet)
+Seat 9: JANJAN07 collected ($0.05)
+
+
+
+PokerStars Hand #100595704999:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 11:08:36 ET
+Table 'Triglav III' 9-max Seat #2 is the button
+Seat 1: robertjuliat ($2.27 in chips) 
+Seat 2: reivaj491 ($3.58 in chips) 
+Seat 3: jimz1024 ($10.05 in chips) 
+Seat 4: LUIS4915 ($2.54 in chips) 
+Seat 5: vihanka ($0.90 in chips) 
+Seat 6: Sageroth ($2.12 in chips) 
+Seat 7: Kleppiej ($1.98 in chips) 
+Seat 8: LinPu ($1.60 in chips) 
+Seat 9: JANJAN07 ($1.97 in chips) 
+jimz1024: posts small blind $0.01
+LUIS4915: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [6c Tc]
+vihanka: folds 
+Sageroth: folds 
+Kleppiej: folds 
+LinPu: folds 
+JANJAN07: raises $0.06 to $0.08
+robertjuliat: folds 
+reivaj491: folds 
+jimz1024: folds 
+LUIS4915: folds 
+Uncalled bet ($0.06) returned to JANJAN07
+JANJAN07 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: robertjuliat folded before Flop (didn't bet)
+Seat 2: reivaj491 (button) folded before Flop (didn't bet)
+Seat 3: jimz1024 (small blind) folded before Flop
+Seat 4: LUIS4915 (big blind) folded before Flop
+Seat 5: vihanka folded before Flop (didn't bet)
+Seat 6: Sageroth folded before Flop (didn't bet)
+Seat 7: Kleppiej folded before Flop (didn't bet)
+Seat 8: LinPu folded before Flop (didn't bet)
+Seat 9: JANJAN07 collected ($0.05)
+
+
+
+PokerStars Hand #100595720013:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 11:08:59 ET
+Table 'Triglav III' 9-max Seat #3 is the button
+Seat 1: robertjuliat ($2.27 in chips) 
+Seat 2: reivaj491 ($3.58 in chips) 
+Seat 3: jimz1024 ($10.04 in chips) 
+Seat 4: LUIS4915 ($2.52 in chips) 
+Seat 5: vihanka ($0.90 in chips) 
+Seat 6: Sageroth ($2.12 in chips) 
+Seat 7: Kleppiej ($1.98 in chips) 
+Seat 8: LinPu ($1.60 in chips) 
+Seat 9: JANJAN07 ($2 in chips) 
+LUIS4915: posts small blind $0.01
+vihanka: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [5h 6s]
+Sageroth: folds 
+Kleppiej: raises $0.04 to $0.06
+LinPu: folds 
+JANJAN07: raises $0.12 to $0.18
+robertjuliat: folds 
+reivaj491: folds 
+jimz1024: raises $0.27 to $0.45
+LUIS4915: folds 
+vihanka: folds 
+Kleppiej: raises $1.53 to $1.98 and is all-in
+JANJAN07: calls $1.80
+jimz1024: calls $1.53
+*** FLOP *** [4h 4c 2c]
+JANJAN07: bets $0.02 and is all-in
+jimz1024: calls $0.02
+*** TURN *** [4h 4c 2c] [6d]
+*** RIVER *** [4h 4c 2c 6d] [7d]
+*** SHOW DOWN ***
+JANJAN07: shows [Qc Qd] (two pair, Queens and Fours)
+jimz1024: shows [Ks Kd] (two pair, Kings and Fours)
+jimz1024 collected $0.04 from side pot
+Kleppiej: shows [Kc Kh] (two pair, Kings and Fours)
+Kleppiej collected $2.88 from main pot
+jimz1024 collected $2.88 from main pot
+*** SUMMARY ***
+Total pot $6.01 Main pot $5.76. Side pot $0.04. | Rake $0.21 
+Board [4h 4c 2c 6d 7d]
+Seat 1: robertjuliat folded before Flop (didn't bet)
+Seat 2: reivaj491 folded before Flop (didn't bet)
+Seat 3: jimz1024 (button) showed [Ks Kd] and won ($2.92) with two pair, Kings and Fours
+Seat 4: LUIS4915 (small blind) folded before Flop
+Seat 5: vihanka (big blind) folded before Flop
+Seat 6: Sageroth folded before Flop (didn't bet)
+Seat 7: Kleppiej showed [Kc Kh] and won ($2.88) with two pair, Kings and Fours
+Seat 8: LinPu folded before Flop (didn't bet)
+Seat 9: JANJAN07 showed [Qc Qd] and lost with two pair, Queens and Fours
+
+
+
+PokerStars Hand #100595767576:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 11:10:13 ET
+Table 'Triglav III' 9-max Seat #4 is the button
+Seat 1: robertjuliat ($2.27 in chips) 
+Seat 2: reivaj491 ($3.58 in chips) 
+Seat 3: jimz1024 ($10.96 in chips) 
+Seat 4: LUIS4915 ($2.51 in chips) 
+Seat 5: vihanka ($0.88 in chips) 
+Seat 6: Sageroth ($2.12 in chips) 
+Seat 7: Kleppiej ($2.88 in chips) 
+Seat 8: LinPu ($1.60 in chips) 
+vihanka: posts small blind $0.01
+Sageroth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [6s Qh]
+Kleppiej: folds 
+LinPu: folds 
+robertjuliat: folds 
+reivaj491: folds 
+jimz1024: folds 
+LUIS4915: folds 
+vihanka: folds 
+Uncalled bet ($0.01) returned to Sageroth
+Sageroth collected $0.02 from pot
+Sageroth: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: robertjuliat folded before Flop (didn't bet)
+Seat 2: reivaj491 folded before Flop (didn't bet)
+Seat 3: jimz1024 folded before Flop (didn't bet)
+Seat 4: LUIS4915 (button) folded before Flop (didn't bet)
+Seat 5: vihanka (small blind) folded before Flop
+Seat 6: Sageroth (big blind) collected ($0.02)
+Seat 7: Kleppiej folded before Flop (didn't bet)
+Seat 8: LinPu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100595783605:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 11:10:37 ET
+Table 'Triglav III' 9-max Seat #5 is the button
+Seat 1: robertjuliat ($2.27 in chips) 
+Seat 2: reivaj491 ($3.58 in chips) 
+Seat 3: jimz1024 ($10.96 in chips) 
+Seat 4: LUIS4915 ($2.51 in chips) 
+Seat 5: vihanka ($0.87 in chips) 
+Seat 6: Sageroth ($2.13 in chips) 
+Seat 7: Kleppiej ($2.88 in chips) 
+Seat 8: LinPu ($1.60 in chips) 
+Seat 9: JANJAN07 ($2 in chips) 
+Sageroth: posts small blind $0.01
+Kleppiej: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [7h 9d]
+LinPu: folds 
+JANJAN07: folds 
+robertjuliat: raises $0.04 to $0.06
+reivaj491: folds 
+jimz1024: folds 
+LUIS4915: folds 
+vihanka: folds 
+Sageroth: folds 
+Kleppiej: folds 
+Uncalled bet ($0.04) returned to robertjuliat
+robertjuliat collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: robertjuliat collected ($0.05)
+Seat 2: reivaj491 folded before Flop (didn't bet)
+Seat 3: jimz1024 folded before Flop (didn't bet)
+Seat 4: LUIS4915 folded before Flop (didn't bet)
+Seat 5: vihanka (button) folded before Flop (didn't bet)
+Seat 6: Sageroth (small blind) folded before Flop
+Seat 7: Kleppiej (big blind) folded before Flop
+Seat 8: LinPu folded before Flop (didn't bet)
+Seat 9: JANJAN07 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100595801317:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 11:11:05 ET
+Table 'Triglav III' 9-max Seat #6 is the button
+Seat 1: robertjuliat ($2.30 in chips) 
+Seat 2: reivaj491 ($3.58 in chips) 
+Seat 3: jimz1024 ($10.96 in chips) 
+Seat 4: LUIS4915 ($2.51 in chips) 
+Seat 5: vihanka ($0.87 in chips) 
+Seat 6: Sageroth ($2.12 in chips) 
+Seat 7: Kleppiej ($2.86 in chips) 
+Seat 8: LinPu ($1.60 in chips) 
+Seat 9: JANJAN07 ($2 in chips) 
+Kleppiej: posts small blind $0.01
+LinPu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [Ac 4h]
+JANJAN07: folds 
+robertjuliat: raises $0.02 to $0.04
+reivaj491: folds 
+jimz1024: raises $0.11 to $0.15
+LUIS4915: folds 
+vihanka: folds 
+Sageroth: folds 
+Kleppiej: folds 
+LinPu: folds 
+robertjuliat: calls $0.11
+*** FLOP *** [9s 7c 8s]
+robertjuliat: checks 
+jimz1024: bets $0.28
+robertjuliat: folds 
+Uncalled bet ($0.28) returned to jimz1024
+jimz1024 collected $0.32 from pot
+jimz1024: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [9s 7c 8s]
+Seat 1: robertjuliat folded on the Flop
+Seat 2: reivaj491 folded before Flop (didn't bet)
+Seat 3: jimz1024 collected ($0.32)
+Seat 4: LUIS4915 folded before Flop (didn't bet)
+Seat 5: vihanka folded before Flop (didn't bet)
+Seat 6: Sageroth (button) folded before Flop (didn't bet)
+Seat 7: Kleppiej (small blind) folded before Flop
+Seat 8: LinPu (big blind) folded before Flop
+Seat 9: JANJAN07 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100595837626:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 11:12:01 ET
+Table 'Triglav III' 9-max Seat #7 is the button
+Seat 1: robertjuliat ($2.15 in chips) 
+Seat 2: reivaj491 ($3.58 in chips) 
+Seat 3: jimz1024 ($11.13 in chips) 
+Seat 4: LUIS4915 ($2.51 in chips) 
+Seat 5: vihanka ($0.87 in chips) 
+Seat 6: Sageroth ($2.12 in chips) 
+Seat 7: Kleppiej ($2.85 in chips) 
+Seat 8: LinPu ($1.58 in chips) 
+Seat 9: JANJAN07 ($2 in chips) 
+LinPu: posts small blind $0.01
+JANJAN07: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [6d 2c]
+robertjuliat: raises $0.04 to $0.06
+reivaj491: folds 
+jimz1024: folds 
+LUIS4915: folds 
+vihanka: folds 
+Sageroth: folds 
+Kleppiej: folds 
+LinPu: folds 
+JANJAN07: folds 
+Uncalled bet ($0.04) returned to robertjuliat
+robertjuliat collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: robertjuliat collected ($0.05)
+Seat 2: reivaj491 folded before Flop (didn't bet)
+Seat 3: jimz1024 folded before Flop (didn't bet)
+Seat 4: LUIS4915 folded before Flop (didn't bet)
+Seat 5: vihanka folded before Flop (didn't bet)
+Seat 6: Sageroth folded before Flop (didn't bet)
+Seat 7: Kleppiej (button) folded before Flop (didn't bet)
+Seat 8: LinPu (small blind) folded before Flop
+Seat 9: JANJAN07 (big blind) folded before Flop
+
+
+
+PokerStars Hand #100595862917:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 11:12:39 ET
+Table 'Triglav III' 9-max Seat #8 is the button
+Seat 1: robertjuliat ($2.18 in chips) 
+Seat 2: reivaj491 ($3.58 in chips) 
+Seat 3: jimz1024 ($11.13 in chips) 
+Seat 4: LUIS4915 ($2.51 in chips) 
+Seat 5: vihanka ($0.87 in chips) 
+Seat 6: Sageroth ($2.12 in chips) 
+Seat 7: Kleppiej ($2.85 in chips) 
+Seat 8: LinPu ($1.57 in chips) 
+Seat 9: JANJAN07 ($1.98 in chips) 
+JANJAN07: posts small blind $0.01
+robertjuliat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [9d 8h]
+reivaj491: folds 
+jimz1024: folds 
+LUIS4915: folds 
+vihanka: folds 
+Sageroth: folds 
+Kleppiej: raises $0.04 to $0.06
+LinPu: folds 
+JANJAN07: folds 
+robertjuliat: folds 
+Uncalled bet ($0.04) returned to Kleppiej
+Kleppiej collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: robertjuliat (big blind) folded before Flop
+Seat 2: reivaj491 folded before Flop (didn't bet)
+Seat 3: jimz1024 folded before Flop (didn't bet)
+Seat 4: LUIS4915 folded before Flop (didn't bet)
+Seat 5: vihanka folded before Flop (didn't bet)
+Seat 6: Sageroth folded before Flop (didn't bet)
+Seat 7: Kleppiej collected ($0.05)
+Seat 8: LinPu (button) folded before Flop (didn't bet)
+Seat 9: JANJAN07 (small blind) folded before Flop
+
+
+
+PokerStars Hand #100595932348:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 11:14:26 ET
+Table 'Triglav III' 9-max Seat #3 is the button
+Seat 1: robertjuliat ($2.15 in chips) 
+Seat 3: jimz1024 ($11.10 in chips) 
+Seat 4: LUIS4915 ($2.49 in chips) 
+Seat 5: vihanka ($0.79 in chips) 
+Seat 6: Sageroth ($2.15 in chips) 
+Seat 7: Kleppiej ($2.88 in chips) 
+Seat 8: LinPu ($1.57 in chips) 
+Seat 9: JANJAN07 ($2.07 in chips) 
+LUIS4915: posts small blind $0.01
+vihanka: posts big blind $0.02
+casaquero: sits out 
+*** HOLE CARDS ***
+Dealt to LinPu [Ac 5h]
+Sageroth: folds 
+Kleppiej: folds 
+LinPu: raises $0.06 to $0.08
+JANJAN07: folds 
+robertjuliat: folds 
+jimz1024: folds 
+LUIS4915: folds 
+vihanka: folds 
+Uncalled bet ($0.06) returned to LinPu
+LinPu collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: robertjuliat folded before Flop (didn't bet)
+Seat 3: jimz1024 (button) folded before Flop (didn't bet)
+Seat 4: LUIS4915 (small blind) folded before Flop
+Seat 5: vihanka (big blind) folded before Flop
+Seat 6: Sageroth folded before Flop (didn't bet)
+Seat 7: Kleppiej folded before Flop (didn't bet)
+Seat 8: LinPu collected ($0.05)
+Seat 9: JANJAN07 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100595950218:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 11:14:53 ET
+Table 'Triglav III' 9-max Seat #4 is the button
+Seat 1: robertjuliat ($2.15 in chips) 
+Seat 3: jimz1024 ($11.10 in chips) 
+Seat 4: LUIS4915 ($2.48 in chips) 
+Seat 5: vihanka ($0.77 in chips) 
+Seat 6: Sageroth ($2.15 in chips) 
+Seat 7: Kleppiej ($2.88 in chips) 
+Seat 8: LinPu ($1.60 in chips) 
+Seat 9: JANJAN07 ($2.07 in chips) 
+vihanka: posts small blind $0.01
+Sageroth: posts big blind $0.02
+casaquero: sits out 
+*** HOLE CARDS ***
+Dealt to LinPu [Qh 7d]
+Kleppiej: raises $0.04 to $0.06
+LinPu: folds 
+JANJAN07: folds 
+robertjuliat: folds 
+jimz1024: folds 
+LUIS4915: folds 
+vihanka: calls $0.05
+Sageroth: folds 
+*** FLOP *** [8c 9c 4h]
+vihanka: bets $0.04
+Kleppiej: raises $0.06 to $0.10
+vihanka: calls $0.06
+*** TURN *** [8c 9c 4h] [8s]
+vihanka: bets $0.08
+Kleppiej: raises $0.08 to $0.16
+vihanka: calls $0.08
+*** RIVER *** [8c 9c 4h 8s] [5s]
+vihanka: bets $0.10
+Kleppiej: raises $0.40 to $0.50
+vihanka: calls $0.35 and is all-in
+Uncalled bet ($0.05) returned to Kleppiej
+*** SHOW DOWN ***
+Kleppiej: shows [Js Jh] (two pair, Jacks and Eights)
+vihanka: shows [6d 6s] (two pair, Eights and Sixes)
+Kleppiej collected $1.51 from pot
+*** SUMMARY ***
+Total pot $1.56 | Rake $0.05 
+Board [8c 9c 4h 8s 5s]
+Seat 1: robertjuliat folded before Flop (didn't bet)
+Seat 3: jimz1024 folded before Flop (didn't bet)
+Seat 4: LUIS4915 (button) folded before Flop (didn't bet)
+Seat 5: vihanka (small blind) showed [6d 6s] and lost with two pair, Eights and Sixes
+Seat 6: Sageroth (big blind) folded before Flop
+Seat 7: Kleppiej showed [Js Jh] and won ($1.51) with two pair, Jacks and Eights
+Seat 8: LinPu folded before Flop (didn't bet)
+Seat 9: JANJAN07 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100595997878:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 11:16:05 ET
+Table 'Triglav III' 9-max Seat #6 is the button
+Seat 1: robertjuliat ($2.15 in chips) 
+Seat 3: jimz1024 ($11.10 in chips) 
+Seat 4: LUIS4915 ($2.48 in chips) 
+Seat 6: Sageroth ($2.13 in chips) 
+Seat 7: Kleppiej ($3.62 in chips) 
+Seat 8: LinPu ($1.60 in chips) 
+Seat 9: JANJAN07 ($2.07 in chips) 
+Kleppiej: posts small blind $0.01
+LinPu: posts big blind $0.02
+casaquero: sits out 
+*** HOLE CARDS ***
+Dealt to LinPu [Td Jd]
+JANJAN07: folds 
+robertjuliat: folds 
+jimz1024: folds 
+LUIS4915: folds 
+Sageroth: raises $0.04 to $0.06
+Kleppiej: folds 
+LinPu: raises $0.06 to $0.12
+Sageroth: calls $0.06
+*** FLOP *** [5d Kh Th]
+LinPu: bets $0.08
+Sageroth: calls $0.08
+*** TURN *** [5d Kh Th] [4h]
+LinPu: checks 
+Sageroth: checks 
+*** RIVER *** [5d Kh Th 4h] [6d]
+LinPu: checks 
+Sageroth: checks 
+*** SHOW DOWN ***
+LinPu: shows [Td Jd] (a pair of Tens)
+Sageroth: shows [Js Jh] (a pair of Jacks)
+Sageroth collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [5d Kh Th 4h 6d]
+Seat 1: robertjuliat folded before Flop (didn't bet)
+Seat 3: jimz1024 folded before Flop (didn't bet)
+Seat 4: LUIS4915 folded before Flop (didn't bet)
+Seat 6: Sageroth (button) showed [Js Jh] and won ($0.40) with a pair of Jacks
+Seat 7: Kleppiej (small blind) folded before Flop
+Seat 8: LinPu (big blind) showed [Td Jd] and lost with a pair of Tens
+Seat 9: JANJAN07 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100596048841:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 11:17:22 ET
+Table 'Triglav III' 9-max Seat #7 is the button
+Seat 1: robertjuliat ($2.15 in chips) 
+Seat 3: jimz1024 ($11.10 in chips) 
+Seat 4: LUIS4915 ($2.48 in chips) 
+Seat 5: vihanka ($0.80 in chips) 
+Seat 6: Sageroth ($2.33 in chips) 
+Seat 7: Kleppiej ($3.61 in chips) 
+Seat 8: LinPu ($1.40 in chips) 
+Seat 9: JANJAN07 ($2.07 in chips) 
+LinPu: posts small blind $0.01
+JANJAN07: posts big blind $0.02
+casaquero: sits out 
+*** HOLE CARDS ***
+Dealt to LinPu [6c Ah]
+robertjuliat: folds 
+robertjuliat leaves the table
+jimz1024: folds 
+LUIS4915: raises $0.04 to $0.06
+vihanka: folds 
+Sageroth: folds 
+Kleppiej: folds 
+LinPu: folds 
+JANJAN07: folds 
+Uncalled bet ($0.04) returned to LUIS4915
+LUIS4915 collected $0.05 from pot
+mr.Makaken joins the table at seat #1 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: robertjuliat folded before Flop (didn't bet)
+Seat 3: jimz1024 folded before Flop (didn't bet)
+Seat 4: LUIS4915 collected ($0.05)
+Seat 5: vihanka folded before Flop (didn't bet)
+Seat 6: Sageroth folded before Flop (didn't bet)
+Seat 7: Kleppiej (button) folded before Flop (didn't bet)
+Seat 8: LinPu (small blind) folded before Flop
+Seat 9: JANJAN07 (big blind) folded before Flop
+
+
+
+PokerStars Hand #100596061762:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 11:17:41 ET
+Table 'Triglav III' 9-max Seat #8 is the button
+Seat 1: mr.Makaken ($0.80 in chips) 
+Seat 3: jimz1024 ($11.10 in chips) 
+Seat 4: LUIS4915 ($2.51 in chips) 
+Seat 5: vihanka ($0.80 in chips) 
+Seat 6: Sageroth ($2.33 in chips) 
+Seat 7: Kleppiej ($3.61 in chips) 
+Seat 8: LinPu ($1.39 in chips) 
+Seat 9: JANJAN07 ($2.05 in chips) 
+JANJAN07: posts small blind $0.01
+mr.Makaken: posts big blind $0.02
+casaquero: sits out 
+*** HOLE CARDS ***
+Dealt to LinPu [6c Qs]
+jimz1024: folds 
+LUIS4915: folds 
+vihanka: calls $0.02
+Sageroth: folds 
+Kleppiej: folds 
+LinPu: folds 
+JANJAN07: folds 
+mr.Makaken: checks 
+*** FLOP *** [8d Ks As]
+mr.Makaken: checks 
+vihanka: checks 
+*** TURN *** [8d Ks As] [Js]
+mr.Makaken: checks 
+vihanka: checks 
+*** RIVER *** [8d Ks As Js] [9c]
+mr.Makaken: checks 
+vihanka: checks 
+*** SHOW DOWN ***
+mr.Makaken: shows [5s 4c] (high card Ace)
+vihanka: shows [Td 2d] (high card Ace - King+Jack+Ten kicker)
+vihanka collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8d Ks As Js 9c]
+Seat 1: mr.Makaken (big blind) showed [5s 4c] and lost with high card Ace
+Seat 3: jimz1024 folded before Flop (didn't bet)
+Seat 4: LUIS4915 folded before Flop (didn't bet)
+Seat 5: vihanka showed [Td 2d] and won ($0.05) with high card Ace
+Seat 6: Sageroth folded before Flop (didn't bet)
+Seat 7: Kleppiej folded before Flop (didn't bet)
+Seat 8: LinPu (button) folded before Flop (didn't bet)
+Seat 9: JANJAN07 (small blind) folded before Flop
+
+
+

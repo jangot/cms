@@ -1,8 +1,9 @@
 $(function() {
 
-    $('form').each(function(i, form) {
+    $('form').not('.poker').each(function(i, form) {
         $(form).ajaxForm({
             beforeSubmit : function() {
+
                 $(form)
                     .find('.errorBlock')
                     .html('')
@@ -23,6 +24,8 @@ $(function() {
                             .show()
                         ;
                     }
+                } else {
+                    console.log(data.responseJSON);
                 }
             }
         });

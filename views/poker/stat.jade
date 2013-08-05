@@ -1,0 +1,52 @@
+extends ../layout
+
+block content
+    script(src='/js/poker.js')
+    div.time
+        | Parse time
+        span(style='padding:10px; font-weight:900')= time
+        | ms
+    table
+        tr
+            th Login
+            th distribution
+            th VPIP (see flop / %)
+            th close win
+            th open / win
+            th delete
+        - for (var name in stats)
+            include ./item
+
+    div.add
+        br
+        button start
+        br
+        br
+        input(type='text')
+        br
+        select
+            option(value='0')
+                | --select--
+            - for (var i in allUsers)
+                option(value=allUsers[i])= allUsers[i]
+        ul
+
+    div.currentUsers
+        ul
+            - for (var nameUser in currentUsers)
+                - users[nameUser] = true
+                li= nameUser
+
+
+
+    form(method='get', action='/poker/stat', class='poker')
+        each user in allUsers
+            label
+                - var name = user;
+                - che = Boolean(users[name]);
+                input(type='checkbox', name=name, value='1', checked=che)
+                span= user
+        input(type='submit')
+        br
+        br
+        input(type='button', value='stop')

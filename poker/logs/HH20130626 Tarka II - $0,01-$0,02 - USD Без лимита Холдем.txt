@@ -1,0 +1,738 @@
+﻿PokerStars Hand #100587651940:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 7:04:21 ET
+Table 'Tarka II' 9-max Seat #2 is the button
+Seat 1: coemiester ($2.04 in chips) 
+Seat 2: opel701 ($1.97 in chips) 
+Seat 4: genk53 ($1.66 in chips) 
+Seat 5: LinPu ($1.60 in chips) 
+Seat 6: d master722 ($1.46 in chips) 
+Seat 7: d3fman ($1.13 in chips) 
+Seat 8: coli99 ($2.06 in chips) 
+Seat 9: Qbeck ($2.05 in chips) 
+George Free will be allowed to play after the button
+genk53: posts small blind $0.01
+LinPu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [Jc Tc]
+d master722: calls $0.02
+d3fman: folds 
+coli99: folds 
+Qbeck: folds 
+coemiester: calls $0.02
+opel701: folds 
+genk53: folds 
+LinPu: checks 
+*** FLOP *** [6s 8h Qd]
+LinPu: checks 
+d master722: checks 
+coemiester: checks 
+*** TURN *** [6s 8h Qd] [Kc]
+LinPu: bets $0.06
+d master722: folds 
+coemiester: calls $0.06
+*** RIVER *** [6s 8h Qd Kc] [9s]
+LinPu: bets $0.10
+coemiester: calls $0.10
+*** SHOW DOWN ***
+LinPu: shows [Jc Tc] (a straight, Nine to King)
+coemiester: mucks hand 
+LinPu collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [6s 8h Qd Kc 9s]
+Seat 1: coemiester mucked [Js Ks]
+Seat 2: opel701 (button) folded before Flop (didn't bet)
+Seat 4: genk53 (small blind) folded before Flop
+Seat 5: LinPu (big blind) showed [Jc Tc] and won ($0.38) with a straight, Nine to King
+Seat 6: d master722 folded on the Turn
+Seat 7: d3fman folded before Flop (didn't bet)
+Seat 8: coli99 folded before Flop (didn't bet)
+Seat 9: Qbeck folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100587670558:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 7:05:02 ET
+Table 'Tarka II' 9-max Seat #4 is the button
+Seat 1: coemiester ($1.92 in chips) 
+Seat 2: opel701 ($1.97 in chips) 
+Seat 4: genk53 ($1.65 in chips) 
+Seat 5: LinPu ($1.80 in chips) 
+Seat 6: d master722 ($1.44 in chips) 
+Seat 7: d3fman ($1.13 in chips) 
+Seat 8: coli99 ($2.06 in chips) 
+Seat 9: Qbeck ($2.05 in chips) 
+LinPu: posts small blind $0.01
+d master722: posts big blind $0.02
+George Free: sits out 
+*** HOLE CARDS ***
+Dealt to LinPu [7c 3c]
+d3fman: folds 
+coli99: folds 
+Qbeck: raises $0.06 to $0.08
+coemiester: folds 
+opel701: calls $0.08
+genk53: folds 
+LinPu: folds 
+d master722: calls $0.06
+*** FLOP *** [5d 9s 6s]
+d master722: checks 
+Qbeck: checks 
+opel701: bets $0.12
+d master722: folds 
+Qbeck: folds 
+Uncalled bet ($0.12) returned to opel701
+opel701 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [5d 9s 6s]
+Seat 1: coemiester folded before Flop (didn't bet)
+Seat 2: opel701 collected ($0.24)
+Seat 4: genk53 (button) folded before Flop (didn't bet)
+Seat 5: LinPu (small blind) folded before Flop
+Seat 6: d master722 (big blind) folded on the Flop
+Seat 7: d3fman folded before Flop (didn't bet)
+Seat 8: coli99 folded before Flop (didn't bet)
+Seat 9: Qbeck folded on the Flop
+
+
+
+PokerStars Hand #100587692069:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 7:05:50 ET
+Table 'Tarka II' 9-max Seat #5 is the button
+Seat 1: coemiester ($1.92 in chips) 
+Seat 2: opel701 ($2.13 in chips) 
+Seat 3: George Free ($1.53 in chips) 
+Seat 4: genk53 ($1.65 in chips) 
+Seat 5: LinPu ($1.79 in chips) 
+Seat 6: d master722 ($1.36 in chips) 
+Seat 7: d3fman ($1.13 in chips) 
+Seat 8: coli99 ($2.06 in chips) 
+Seat 9: Qbeck ($2 in chips) 
+d master722: posts small blind $0.01
+d3fman: posts big blind $0.02
+George Free: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to LinPu [Kh Th]
+coli99: folds 
+Qbeck: folds 
+coemiester: folds 
+opel701: folds 
+George Free: raises $0.04 to $0.06
+genk53: calls $0.06
+LinPu: folds 
+d master722: calls $0.05
+d3fman: folds 
+*** FLOP *** [Qc 9c Qh]
+d master722: checks 
+George Free: checks 
+genk53: checks 
+*** TURN *** [Qc 9c Qh] [6h]
+d master722: checks 
+George Free: bets $0.12
+genk53: raises $0.12 to $0.24
+d master722: folds 
+George Free: calls $0.12
+*** RIVER *** [Qc 9c Qh 6h] [8h]
+George Free: bets $0.22
+genk53: raises $1.13 to $1.35 and is all-in
+George Free: folds 
+Uncalled bet ($1.13) returned to genk53
+genk53 collected $1.09 from pot
+*** SUMMARY ***
+Total pot $1.13 | Rake $0.04 
+Board [Qc 9c Qh 6h 8h]
+Seat 1: coemiester folded before Flop (didn't bet)
+Seat 2: opel701 folded before Flop (didn't bet)
+Seat 3: George Free folded on the River
+Seat 4: genk53 collected ($1.09)
+Seat 5: LinPu (button) folded before Flop (didn't bet)
+Seat 6: d master722 (small blind) folded on the Turn
+Seat 7: d3fman (big blind) folded before Flop
+Seat 8: coli99 folded before Flop (didn't bet)
+Seat 9: Qbeck folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100587720447:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 7:06:53 ET
+Table 'Tarka II' 9-max Seat #6 is the button
+Seat 1: coemiester ($1.92 in chips) 
+Seat 2: opel701 ($2.13 in chips) 
+Seat 3: George Free ($1 in chips) 
+Seat 4: genk53 ($2.22 in chips) 
+Seat 5: LinPu ($1.79 in chips) 
+Seat 6: d master722 ($1.30 in chips) 
+Seat 7: d3fman ($1.11 in chips) 
+Seat 8: coli99 ($2.06 in chips) 
+Seat 9: Qbeck ($2 in chips) 
+d3fman: posts small blind $0.01
+coli99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [5d 6s]
+Qbeck: folds 
+coemiester: folds 
+George Free said, "nh"
+opel701: folds 
+George Free: calls $0.02
+genk53: folds 
+LinPu: folds 
+d master722: calls $0.02
+d3fman: calls $0.01
+coli99: checks 
+*** FLOP *** [Ks Ad 5c]
+d3fman: checks 
+coli99: checks 
+George Free: checks 
+d master722: checks 
+*** TURN *** [Ks Ad 5c] [2h]
+d3fman: checks 
+coli99: checks 
+George Free: checks 
+d master722: checks 
+*** RIVER *** [Ks Ad 5c 2h] [5h]
+d3fman: checks 
+coli99: checks 
+George Free: checks 
+d master722: checks 
+*** SHOW DOWN ***
+d3fman: shows [7c Ac] (two pair, Aces and Fives)
+coli99: mucks hand 
+George Free: mucks hand 
+d master722: mucks hand 
+d3fman collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Ks Ad 5c 2h 5h]
+Seat 1: coemiester folded before Flop (didn't bet)
+Seat 2: opel701 folded before Flop (didn't bet)
+Seat 3: George Free mucked [7d Td]
+Seat 4: genk53 folded before Flop (didn't bet)
+Seat 5: LinPu folded before Flop (didn't bet)
+Seat 6: d master722 (button) mucked [4s 4d]
+Seat 7: d3fman (small blind) showed [7c Ac] and won ($0.08) with two pair, Aces and Fives
+Seat 8: coli99 (big blind) mucked [9h Qs]
+Seat 9: Qbeck folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100587748377:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 7:07:55 ET
+Table 'Tarka II' 9-max Seat #7 is the button
+Seat 1: coemiester ($1.92 in chips) 
+Seat 2: opel701 ($2.13 in chips) 
+Seat 3: George Free ($0.98 in chips) 
+Seat 4: genk53 ($2.22 in chips) 
+Seat 5: LinPu ($1.79 in chips) 
+Seat 7: d3fman ($1.17 in chips) 
+Seat 8: coli99 ($2.04 in chips) 
+Seat 9: Qbeck ($2 in chips) 
+d master722 leaves the table
+coli99: posts small blind $0.01
+Qbeck: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [5c 9d]
+coemiester: folds 
+heilenmax joins the table at seat #6 
+opel701: folds 
+George Free: raises $0.04 to $0.06
+genk53: folds 
+genk53 leaves the table
+ambidextru1 joins the table at seat #4 
+LinPu: folds 
+d3fman: folds 
+coli99: calls $0.05
+Qbeck: folds 
+*** FLOP *** [6s 8s Ks]
+coli99: checks 
+George Free: bets $0.10
+coli99: folds 
+Uncalled bet ($0.10) returned to George Free
+George Free collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [6s 8s Ks]
+Seat 1: coemiester folded before Flop (didn't bet)
+Seat 2: opel701 folded before Flop (didn't bet)
+Seat 3: George Free collected ($0.14)
+Seat 4: genk53 folded before Flop (didn't bet)
+Seat 5: LinPu folded before Flop (didn't bet)
+Seat 7: d3fman (button) folded before Flop (didn't bet)
+Seat 8: coli99 (small blind) folded on the Flop
+Seat 9: Qbeck (big blind) folded before Flop
+
+
+
+PokerStars Hand #100587766406:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 7:08:35 ET
+Table 'Tarka II' 9-max Seat #8 is the button
+Seat 1: coemiester ($2 in chips) 
+Seat 2: opel701 ($2.13 in chips) 
+Seat 3: George Free ($1.06 in chips) 
+Seat 5: LinPu ($1.79 in chips) 
+Seat 7: d3fman ($1.17 in chips) 
+Seat 8: coli99 ($1.98 in chips) 
+Seat 9: Qbeck ($2 in chips) 
+Qbeck: posts small blind $0.01
+coemiester: posts big blind $0.02
+ambidextru1: sits out 
+heilenmax: sits out 
+*** HOLE CARDS ***
+Dealt to LinPu [7c 8h]
+opel701: folds 
+George Free: folds 
+LinPu: folds 
+d3fman: raises $0.04 to $0.06
+coli99: folds 
+Qbeck: folds 
+coemiester: calls $0.04
+*** FLOP *** [Tc 8c Td]
+coemiester: checks 
+d3fman: bets $0.08
+coemiester: calls $0.08
+*** TURN *** [Tc 8c Td] [6s]
+coemiester: checks 
+d3fman: checks 
+*** RIVER *** [Tc 8c Td 6s] [2d]
+coemiester: bets $0.12
+d3fman: folds 
+Uncalled bet ($0.12) returned to coemiester
+coemiester collected $0.28 from pot
+coemiester: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Tc 8c Td 6s 2d]
+Seat 1: coemiester (big blind) collected ($0.28)
+Seat 2: opel701 folded before Flop (didn't bet)
+Seat 3: George Free folded before Flop (didn't bet)
+Seat 5: LinPu folded before Flop (didn't bet)
+Seat 7: d3fman folded on the River
+Seat 8: coli99 (button) folded before Flop (didn't bet)
+Seat 9: Qbeck (small blind) folded before Flop
+
+
+
+PokerStars Hand #100587790944:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 7:09:29 ET
+Table 'Tarka II' 9-max Seat #9 is the button
+Seat 1: coemiester ($2.14 in chips) 
+Seat 3: George Free ($1.06 in chips) 
+Seat 5: LinPu ($1.79 in chips) 
+Seat 7: d3fman ($1.03 in chips) 
+Seat 8: coli99 ($1.98 in chips) 
+Seat 9: Qbeck ($2 in chips) 
+coemiester: posts small blind $0.01
+George Free: posts big blind $0.02
+ambidextru1: sits out 
+heilenmax: sits out 
+*** HOLE CARDS ***
+Dealt to LinPu [5d 3h]
+LinPu: folds 
+d3fman: folds 
+coli99: folds 
+Qbeck: folds 
+coemiester: folds 
+Uncalled bet ($0.01) returned to George Free
+George Free collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: coemiester (small blind) folded before Flop
+Seat 3: George Free (big blind) collected ($0.02)
+Seat 5: LinPu folded before Flop (didn't bet)
+Seat 7: d3fman folded before Flop (didn't bet)
+Seat 8: coli99 folded before Flop (didn't bet)
+Seat 9: Qbeck (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100587802381:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 7:09:54 ET
+Table 'Tarka II' 9-max Seat #1 is the button
+Seat 1: coemiester ($2.13 in chips) 
+Seat 3: George Free ($1.07 in chips) 
+Seat 4: ambidextru1 ($5 in chips) 
+Seat 5: LinPu ($1.79 in chips) 
+Seat 7: d3fman ($1.03 in chips) 
+Seat 8: coli99 ($1.98 in chips) 
+Seat 9: Qbeck ($2 in chips) 
+opel701 will be allowed to play after the button
+George Free: posts small blind $0.01
+ambidextru1: posts big blind $0.02
+heilenmax: sits out 
+*** HOLE CARDS ***
+Dealt to LinPu [9s 2s]
+LinPu: folds 
+d3fman: folds 
+coli99: folds 
+Qbeck: raises $0.04 to $0.06
+coemiester: folds 
+George Free: folds 
+ambidextru1: folds 
+Uncalled bet ($0.04) returned to Qbeck
+Qbeck collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: coemiester (button) folded before Flop (didn't bet)
+Seat 3: George Free (small blind) folded before Flop
+Seat 4: ambidextru1 (big blind) folded before Flop
+Seat 5: LinPu folded before Flop (didn't bet)
+Seat 7: d3fman folded before Flop (didn't bet)
+Seat 8: coli99 folded before Flop (didn't bet)
+Seat 9: Qbeck collected ($0.05)
+
+
+
+PokerStars Hand #100587809691:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 7:10:10 ET
+Table 'Tarka II' 9-max Seat #3 is the button
+Seat 1: coemiester ($2.13 in chips) 
+Seat 2: opel701 ($2.13 in chips) 
+Seat 3: George Free ($1.06 in chips) 
+Seat 4: ambidextru1 ($5 in chips) 
+Seat 5: LinPu ($1.79 in chips) 
+Seat 7: d3fman ($1.03 in chips) 
+Seat 8: coli99 ($1.98 in chips) 
+Seat 9: Qbeck ($2.03 in chips) 
+ambidextru1: posts small blind $0.01
+LinPu: posts big blind $0.02
+heilenmax: sits out 
+opel701: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to LinPu [3h 4h]
+d3fman: folds 
+coli99: folds 
+Qbeck: folds 
+coemiester: folds 
+opel701: raises $0.03 to $0.05
+George Free: calls $0.05
+ambidextru1: folds 
+LinPu: folds 
+*** FLOP *** [Ac 9d 3s]
+opel701: bets $0.09
+George Free: calls $0.09
+*** TURN *** [Ac 9d 3s] [As]
+opel701: checks 
+George Free: checks 
+*** RIVER *** [Ac 9d 3s As] [8d]
+opel701: checks 
+George Free: bets $0.22
+opel701: folds 
+Uncalled bet ($0.22) returned to George Free
+George Free collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Ac 9d 3s As 8d]
+Seat 1: coemiester folded before Flop (didn't bet)
+Seat 2: opel701 folded on the River
+Seat 3: George Free (button) collected ($0.31)
+Seat 4: ambidextru1 (small blind) folded before Flop
+Seat 5: LinPu (big blind) folded before Flop
+Seat 7: d3fman folded before Flop (didn't bet)
+Seat 8: coli99 folded before Flop (didn't bet)
+Seat 9: Qbeck folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100587835079:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 7:11:06 ET
+Table 'Tarka II' 9-max Seat #4 is the button
+Seat 1: coemiester ($2.13 in chips) 
+Seat 2: opel701 ($1.98 in chips) 
+Seat 3: George Free ($1.23 in chips) 
+Seat 4: ambidextru1 ($5 in chips) 
+Seat 5: LinPu ($1.77 in chips) 
+Seat 6: heilenmax ($2 in chips) 
+Seat 7: d3fman ($1.03 in chips) 
+Seat 8: coli99 ($1.98 in chips) 
+Seat 9: Qbeck ($2.03 in chips) 
+LinPu: posts small blind $0.01
+heilenmax: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [2c Kh]
+d3fman: folds 
+coli99: folds 
+Qbeck: folds 
+coemiester: folds 
+opel701: folds 
+George Free: raises $0.04 to $0.06
+ambidextru1: folds 
+LinPu: raises $0.10 to $0.16
+heilenmax: folds 
+George Free: calls $0.10
+*** FLOP *** [7h Tc Jh]
+LinPu: checks 
+George Free: bets $0.22
+LinPu: folds 
+Uncalled bet ($0.22) returned to George Free
+George Free collected $0.33 from pot
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [7h Tc Jh]
+Seat 1: coemiester folded before Flop (didn't bet)
+Seat 2: opel701 folded before Flop (didn't bet)
+Seat 3: George Free collected ($0.33)
+Seat 4: ambidextru1 (button) folded before Flop (didn't bet)
+Seat 5: LinPu (small blind) folded on the Flop
+Seat 6: heilenmax (big blind) folded before Flop
+Seat 7: d3fman folded before Flop (didn't bet)
+Seat 8: coli99 folded before Flop (didn't bet)
+Seat 9: Qbeck folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100587854585:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 7:11:49 ET
+Table 'Tarka II' 9-max Seat #5 is the button
+Seat 1: coemiester ($2.13 in chips) 
+Seat 2: opel701 ($1.98 in chips) 
+Seat 3: George Free ($1.40 in chips) 
+Seat 4: ambidextru1 ($5 in chips) 
+Seat 5: LinPu ($1.61 in chips) 
+Seat 6: heilenmax ($2 in chips) 
+Seat 8: coli99 ($1.98 in chips) 
+Seat 9: Qbeck ($2.03 in chips) 
+heilenmax: posts small blind $0.01
+coli99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [8c 5c]
+Qbeck: folds 
+coemiester: folds 
+opel701: raises $0.03 to $0.05
+George Free: folds 
+ambidextru1: folds 
+LinPu: folds 
+heilenmax: folds 
+coli99: calls $0.03
+*** FLOP *** [7c 3s 5d]
+coli99: checks 
+opel701: bets $0.07
+coli99: calls $0.07
+*** TURN *** [7c 3s 5d] [Ac]
+coli99: checks 
+opel701: bets $0.12
+coli99: folds 
+Uncalled bet ($0.12) returned to opel701
+opel701 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [7c 3s 5d Ac]
+Seat 1: coemiester folded before Flop (didn't bet)
+Seat 2: opel701 collected ($0.24)
+Seat 3: George Free folded before Flop (didn't bet)
+Seat 4: ambidextru1 folded before Flop (didn't bet)
+Seat 5: LinPu (button) folded before Flop (didn't bet)
+Seat 6: heilenmax (small blind) folded before Flop
+Seat 8: coli99 (big blind) folded on the Turn
+Seat 9: Qbeck folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100587882779:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 7:12:51 ET
+Table 'Tarka II' 9-max Seat #6 is the button
+Seat 1: coemiester ($2.13 in chips) 
+Seat 2: opel701 ($2.10 in chips) 
+Seat 3: George Free ($1.40 in chips) 
+Seat 4: ambidextru1 ($5 in chips) 
+Seat 5: LinPu ($1.61 in chips) 
+Seat 6: heilenmax ($2 in chips) 
+Seat 8: coli99 ($1.86 in chips) 
+Seat 9: Qbeck ($2.03 in chips) 
+coli99: posts small blind $0.01
+Qbeck: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [7c 2d]
+coemiester: folds 
+opel701: folds 
+George Free: folds 
+ambidextru1: folds 
+LinPu: folds 
+heilenmax: folds 
+coli99: raises $0.06 to $0.08
+Qbeck: folds 
+Uncalled bet ($0.06) returned to coli99
+coli99 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: coemiester folded before Flop (didn't bet)
+Seat 2: opel701 folded before Flop (didn't bet)
+Seat 3: George Free folded before Flop (didn't bet)
+Seat 4: ambidextru1 folded before Flop (didn't bet)
+Seat 5: LinPu folded before Flop (didn't bet)
+Seat 6: heilenmax (button) folded before Flop (didn't bet)
+Seat 8: coli99 (small blind) collected ($0.04)
+Seat 9: Qbeck (big blind) folded before Flop
+
+
+
+PokerStars Hand #100587891903:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 7:13:11 ET
+Table 'Tarka II' 9-max Seat #8 is the button
+Seat 1: coemiester ($2.13 in chips) 
+Seat 2: opel701 ($2.10 in chips) 
+Seat 3: George Free ($1.40 in chips) 
+Seat 4: ambidextru1 ($5 in chips) 
+Seat 5: LinPu ($1.61 in chips) 
+Seat 6: heilenmax ($2 in chips) 
+Seat 8: coli99 ($1.88 in chips) 
+Seat 9: Qbeck ($2.01 in chips) 
+Qbeck: posts small blind $0.01
+coemiester: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [Th Ts]
+opel701: folds 
+George Free: folds 
+ambidextru1: folds 
+LinPu: raises $0.06 to $0.08
+heilenmax: folds 
+coli99: folds 
+Qbeck: folds 
+coemiester: folds 
+Uncalled bet ($0.06) returned to LinPu
+LinPu collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: coemiester (big blind) folded before Flop
+Seat 2: opel701 folded before Flop (didn't bet)
+Seat 3: George Free folded before Flop (didn't bet)
+Seat 4: ambidextru1 folded before Flop (didn't bet)
+Seat 5: LinPu collected ($0.05)
+Seat 6: heilenmax folded before Flop (didn't bet)
+Seat 8: coli99 (button) folded before Flop (didn't bet)
+Seat 9: Qbeck (small blind) folded before Flop
+
+
+
+PokerStars Hand #100587905256:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 7:13:41 ET
+Table 'Tarka II' 9-max Seat #9 is the button
+Seat 1: coemiester ($2.11 in chips) 
+Seat 2: opel701 ($2.10 in chips) 
+Seat 3: George Free ($1.40 in chips) 
+Seat 4: ambidextru1 ($5 in chips) 
+Seat 5: LinPu ($1.64 in chips) 
+Seat 6: heilenmax ($2 in chips) 
+Seat 8: coli99 ($1.88 in chips) 
+Seat 9: Qbeck ($2 in chips) 
+coemiester: posts small blind $0.01
+opel701: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [5h Jc]
+George Free: raises $0.02 to $0.04
+ambidextru1: folds 
+LinPu: folds 
+heilenmax: folds 
+coli99: folds 
+Qbeck: raises $0.12 to $0.16
+coemiester: folds 
+opel701: folds 
+George Free: folds [Qc Kd]
+Uncalled bet ($0.12) returned to Qbeck
+Qbeck collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: coemiester (small blind) folded before Flop
+Seat 2: opel701 (big blind) folded before Flop
+Seat 3: George Free folded before Flop
+Seat 4: ambidextru1 folded before Flop (didn't bet)
+Seat 5: LinPu folded before Flop (didn't bet)
+Seat 6: heilenmax folded before Flop (didn't bet)
+Seat 8: coli99 folded before Flop (didn't bet)
+Seat 9: Qbeck (button) collected ($0.11)
+
+
+
+PokerStars Hand #100587923278:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 7:14:21 ET
+Table 'Tarka II' 9-max Seat #1 is the button
+Seat 1: coemiester ($2.10 in chips) 
+Seat 2: opel701 ($2.08 in chips) 
+Seat 4: ambidextru1 ($5 in chips) 
+Seat 5: LinPu ($1.64 in chips) 
+Seat 6: heilenmax ($2 in chips) 
+Seat 8: coli99 ($2 in chips) 
+Seat 9: Qbeck ($2.07 in chips) 
+opel701: posts small blind $0.01
+George Free: is sitting out 
+ambidextru1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [Qc 4c]
+George Free leaves the table
+LinPu: folds 
+heilenmax: raises $0.04 to $0.06
+coli99: folds 
+Qbeck: folds 
+ugrinder12 joins the table at seat #3 
+coemiester: folds 
+opel701: folds 
+ambidextru1: folds 
+Uncalled bet ($0.04) returned to heilenmax
+heilenmax collected $0.05 from pot
+heilenmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: coemiester (button) folded before Flop (didn't bet)
+Seat 2: opel701 (small blind) folded before Flop
+Seat 4: ambidextru1 (big blind) folded before Flop
+Seat 5: LinPu folded before Flop (didn't bet)
+Seat 6: heilenmax collected ($0.05)
+Seat 8: coli99 folded before Flop (didn't bet)
+Seat 9: Qbeck folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100587935593:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 7:14:48 ET
+Table 'Tarka II' 9-max Seat #2 is the button
+Seat 1: coemiester ($2.10 in chips) 
+Seat 2: opel701 ($2.07 in chips) 
+Seat 4: ambidextru1 ($5 in chips) 
+Seat 5: LinPu ($1.64 in chips) 
+Seat 6: heilenmax ($2.03 in chips) 
+Seat 8: coli99 ($2 in chips) 
+Seat 9: Qbeck ($2.07 in chips) 
+ugrinder12 will be allowed to play after the button
+ambidextru1: posts small blind $0.01
+LinPu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [2h Qh]
+heilenmax: folds 
+coli99: raises $0.05 to $0.07
+Qbeck: folds 
+coemiester: folds 
+opel701: folds 
+ambidextru1: folds 
+LinPu: folds 
+Uncalled bet ($0.05) returned to coli99
+coli99 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: coemiester folded before Flop (didn't bet)
+Seat 2: opel701 (button) folded before Flop (didn't bet)
+Seat 4: ambidextru1 (small blind) folded before Flop
+Seat 5: LinPu (big blind) folded before Flop
+Seat 6: heilenmax folded before Flop (didn't bet)
+Seat 8: coli99 collected ($0.05)
+Seat 9: Qbeck folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100587944575:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 7:15:08 ET
+Table 'Tarka II' 9-max Seat #4 is the button
+Seat 1: coemiester ($2.10 in chips) 
+Seat 2: opel701 ($2.07 in chips) 
+Seat 4: ambidextru1 ($5 in chips) 
+Seat 5: LinPu ($1.62 in chips) 
+Seat 6: heilenmax ($2.03 in chips) 
+Seat 8: coli99 ($2.03 in chips) 
+Seat 9: Qbeck ($2.07 in chips) 
+LinPu: posts small blind $0.01
+heilenmax: posts big blind $0.02
+ugrinder12: sits out 
+*** HOLE CARDS ***
+Dealt to LinPu [Th Qd]
+coli99: folds 
+Qbeck: folds 
+coemiester: folds 
+opel701: folds 
+ambidextru1: folds 
+LinPu: raises $0.06 to $0.08
+heilenmax: folds 
+Uncalled bet ($0.06) returned to LinPu
+LinPu collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: coemiester folded before Flop (didn't bet)
+Seat 2: opel701 folded before Flop (didn't bet)
+Seat 4: ambidextru1 (button) folded before Flop (didn't bet)
+Seat 5: LinPu (small blind) collected ($0.04)
+Seat 6: heilenmax (big blind) folded before Flop
+Seat 8: coli99 folded before Flop (didn't bet)
+Seat 9: Qbeck folded before Flop (didn't bet)
+
+
+

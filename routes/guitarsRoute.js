@@ -9,6 +9,18 @@ module.exports = {
 
     position : 100,
 
+
+    'get /json-add' : function(req, res, next) {
+        res.view.title = 'JSON-add';
+        res.view.params = require(PUBLIC_PATH + '/settings.json');
+        next();
+    },
+
+    'post /jadd' : function(req, res, next) {
+        console.log(89098);
+        res.status(HTTP_ERROR_SERVER).send(req.body);
+    },
+
     'get /item/:id?' : function(req, res, next) {
         var id = req.params.id;
 
@@ -29,6 +41,7 @@ module.exports = {
                 next();
             });
         });
+
     },
 
     'get /list/:item?' : function(req, res, next) {
@@ -71,7 +84,6 @@ module.exports = {
     'post /add' : function(req, res, next) {
         var fs = require('fs');
         var service = new GuitarService();
-
         var form = new FormAddGuitar();
         form.setData(req.body);
 
@@ -92,6 +104,7 @@ module.exports = {
             },
             service.add.bind(service)
         ];
+
 
         async.waterfall(series, function(e, result) {
             if(e) {

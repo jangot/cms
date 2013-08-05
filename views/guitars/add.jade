@@ -8,7 +8,11 @@ block content
   form(action="/guitars/add", method="post")
       label(data-name='model')
           | Model
-          input(type="text", name="model", value='Goo')
+          input(type="text", name="model", value='')
+          span.errorBlock
+      label(data-name='price')
+          | Price
+          input(type="text", name="price", value='')
           span.errorBlock
       label(data-name='brand')
           | Brand

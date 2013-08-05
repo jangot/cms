@@ -1,0 +1,58 @@
+﻿PokerStars Hand #100511682056:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/24 14:21:23 ET
+Table 'Nephele IV' 9-max Seat #2 is the button
+Seat 1: LinPu ($1.60 in chips) 
+Seat 2: Forvest777 ($3.91 in chips) 
+Seat 3: Mustif 7 ($1.24 in chips) 
+Seat 4: Firngollo ($5 in chips) 
+Seat 6: bananiiiiiii ($0.78 in chips) 
+Seat 7: greed112 ($4 in chips) 
+Seat 8: FIRE91103 ($0.80 in chips) 
+Seat 9: INGVARR13 ($1.67 in chips) 
+Mustif 7: posts small blind $0.01
+Firngollo: posts big blind $0.02
+Kurzangbrtn: sits out 
+LinPu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [Kh 9s]
+bananiiiiiii: raises $0.05 to $0.07
+greed112: folds 
+FIRE91103: folds 
+INGVARR13: folds 
+LinPu: raises $0.05 to $0.12
+Forvest777: calls $0.12
+Mustif 7: folds 
+Firngollo: folds 
+bananiiiiiii: calls $0.05
+*** FLOP *** [Th 5d 2d]
+bananiiiiiii: checks 
+LinPu: bets $0.08
+Forvest777: calls $0.08
+bananiiiiiii: calls $0.08
+*** TURN *** [Th 5d 2d] [Qh]
+bananiiiiiii: checks 
+LinPu: bets $0.08
+Forvest777: calls $0.08
+bananiiiiiii: calls $0.08
+*** RIVER *** [Th 5d 2d Qh] [6d]
+bananiiiiiii: checks 
+LinPu: checks 
+Forvest777: checks 
+*** SHOW DOWN ***
+bananiiiiiii: shows [As 5s] (a pair of Fives)
+LinPu: mucks hand 
+Forvest777: shows [Js Jh] (a pair of Jacks)
+Forvest777 collected $0.84 from pot
+*** SUMMARY ***
+Total pot $0.87 | Rake $0.03 
+Board [Th 5d 2d Qh 6d]
+Seat 1: LinPu mucked [Kh 9s]
+Seat 2: Forvest777 (button) showed [Js Jh] and won ($0.84) with a pair of Jacks
+Seat 3: Mustif 7 (small blind) folded before Flop
+Seat 4: Firngollo (big blind) folded before Flop
+Seat 6: bananiiiiiii showed [As 5s] and lost with a pair of Fives
+Seat 7: greed112 folded before Flop (didn't bet)
+Seat 8: FIRE91103 folded before Flop (didn't bet)
+Seat 9: INGVARR13 folded before Flop (didn't bet)
+
+
+

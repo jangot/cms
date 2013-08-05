@@ -6,6 +6,7 @@ module.exports = global.Class(AbstractSelectBuilder, {
         var query = this._getSelect();
         query
             .select('g.id')
+            .select('g.price')
             .select('model')
             .select('photo')
             .select('b.name AS brand')

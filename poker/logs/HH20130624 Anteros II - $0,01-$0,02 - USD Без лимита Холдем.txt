@@ -1,0 +1,848 @@
+﻿PokerStars Hand #100502138901:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/24 10:48:02 ET
+Table 'Anteros II' 9-max Seat #4 is the button
+Seat 1: LinPu ($1.60 in chips) 
+Seat 2: Wimvan ($2.47 in chips) 
+Seat 3: Valentiniy ($2.15 in chips) 
+Seat 4: -Boban-CZech ($2 in chips) 
+Seat 6: Nosmin ($1.82 in chips) 
+Seat 7: Pakeluka ($2.95 in chips) 
+Seat 8: s1gnum794 ($0.77 in chips) 
+Nosmin: posts small blind $0.01
+Pakeluka: posts big blind $0.02
+prikoluka: sits out 
+LinPu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [7s 6d]
+s1gnum794: folds 
+LinPu: raises $0.06 to $0.08
+Wimvan: folds 
+Valentiniy: folds 
+-Boban-CZech: calls $0.08
+Nosmin: calls $0.07
+Pakeluka: folds 
+*** FLOP *** [2s 8c Td]
+Nosmin: checks 
+LinPu: bets $0.08
+-Boban-CZech: calls $0.08
+Nosmin: calls $0.08
+*** TURN *** [2s 8c Td] [Ts]
+Nosmin: checks 
+LinPu: checks 
+-Boban-CZech: checks 
+*** RIVER *** [2s 8c Td Ts] [Kd]
+Nosmin: checks 
+LinPu: checks 
+-Boban-CZech: checks 
+*** SHOW DOWN ***
+Nosmin: shows [Jc Ac] (a pair of Tens)
+LinPu: mucks hand 
+-Boban-CZech: shows [Qs Ah] (a pair of Tens - Ace+King+Queen kicker)
+-Boban-CZech collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [2s 8c Td Ts Kd]
+Seat 1: LinPu mucked [7s 6d]
+Seat 2: Wimvan folded before Flop (didn't bet)
+Seat 3: Valentiniy folded before Flop (didn't bet)
+Seat 4: -Boban-CZech (button) showed [Qs Ah] and won ($0.48) with a pair of Tens
+Seat 6: Nosmin (small blind) showed [Jc Ac] and lost with a pair of Tens
+Seat 7: Pakeluka (big blind) folded before Flop
+Seat 8: s1gnum794 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100502166327:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/24 10:48:44 ET
+Table 'Anteros II' 9-max Seat #6 is the button
+Seat 1: LinPu ($1.44 in chips) 
+Seat 2: Wimvan ($2.47 in chips) 
+Seat 3: Valentiniy ($2.15 in chips) 
+Seat 4: -Boban-CZech ($2.32 in chips) 
+Seat 6: Nosmin ($1.66 in chips) 
+Seat 7: Pakeluka ($2.93 in chips) 
+Seat 8: s1gnum794 ($0.77 in chips) 
+Pakeluka: posts small blind $0.01
+s1gnum794: posts big blind $0.02
+prikoluka: sits out 
+*** HOLE CARDS ***
+Dealt to LinPu [3h 3s]
+LinPu: calls $0.02
+Wimvan: raises $0.04 to $0.06
+Valentiniy: folds 
+-Boban-CZech: folds 
+Nosmin: folds 
+Pakeluka: folds 
+s1gnum794: folds 
+LinPu: folds 
+Uncalled bet ($0.04) returned to Wimvan
+Wimvan collected $0.07 from pot
+Wimvan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: LinPu folded before Flop
+Seat 2: Wimvan collected ($0.07)
+Seat 3: Valentiniy folded before Flop (didn't bet)
+Seat 4: -Boban-CZech folded before Flop (didn't bet)
+Seat 6: Nosmin (button) folded before Flop (didn't bet)
+Seat 7: Pakeluka (small blind) folded before Flop
+Seat 8: s1gnum794 (big blind) folded before Flop
+
+
+
+PokerStars Hand #100502183185:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/24 10:49:10 ET
+Table 'Anteros II' 9-max Seat #7 is the button
+Seat 1: LinPu ($1.42 in chips) 
+Seat 2: Wimvan ($2.52 in chips) 
+Seat 3: Valentiniy ($2.15 in chips) 
+Seat 4: -Boban-CZech ($2.32 in chips) 
+Seat 6: Nosmin ($2.06 in chips) 
+Seat 7: Pakeluka ($2.92 in chips) 
+Seat 8: s1gnum794 ($0.75 in chips) 
+Seat 9: prikoluka ($1.60 in chips) 
+s1gnum794: posts small blind $0.01
+prikoluka: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [7h Kc]
+LinPu: folds 
+Wimvan: raises $0.04 to $0.06
+Valentiniy: calls $0.06
+-Boban-CZech: folds 
+Nosmin: folds 
+Pakeluka: folds 
+s1gnum794: folds 
+prikoluka: folds 
+*** FLOP *** [As Jh 6d]
+Wimvan: checks 
+Valentiniy: bets $0.08
+Wimvan: calls $0.08
+*** TURN *** [As Jh 6d] [4c]
+Wimvan: checks 
+Valentiniy: bets $0.18
+Wimvan: folds 
+Uncalled bet ($0.18) returned to Valentiniy
+Valentiniy collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [As Jh 6d 4c]
+Seat 1: LinPu folded before Flop (didn't bet)
+Seat 2: Wimvan folded on the Turn
+Seat 3: Valentiniy collected ($0.30)
+Seat 4: -Boban-CZech folded before Flop (didn't bet)
+Seat 6: Nosmin folded before Flop (didn't bet)
+Seat 7: Pakeluka (button) folded before Flop (didn't bet)
+Seat 8: s1gnum794 (small blind) folded before Flop
+Seat 9: prikoluka (big blind) folded before Flop
+
+
+
+PokerStars Hand #100502210869:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/24 10:49:52 ET
+Table 'Anteros II' 9-max Seat #8 is the button
+Seat 1: LinPu ($1.42 in chips) 
+Seat 2: Wimvan ($2.38 in chips) 
+Seat 3: Valentiniy ($2.31 in chips) 
+Seat 4: -Boban-CZech ($2.32 in chips) 
+Seat 6: Nosmin ($2.06 in chips) 
+Seat 7: Pakeluka ($2.92 in chips) 
+Seat 8: s1gnum794 ($0.74 in chips) 
+Seat 9: prikoluka ($1.58 in chips) 
+prikoluka: posts small blind $0.01
+LinPu: posts big blind $0.02
+MisterXJ: sits out 
+*** HOLE CARDS ***
+Dealt to LinPu [5h 4c]
+Wimvan: raises $0.04 to $0.06
+Valentiniy: folds 
+-Boban-CZech: folds 
+Nosmin: folds 
+Pakeluka: calls $0.06
+s1gnum794: folds 
+prikoluka: calls $0.05
+LinPu: calls $0.04
+*** FLOP *** [4d 6c 2c]
+prikoluka: checks 
+LinPu: checks 
+Wimvan: bets $0.16
+Pakeluka: folds 
+prikoluka: folds 
+LinPu: raises $0.16 to $0.32
+Wimvan: folds 
+Uncalled bet ($0.16) returned to LinPu
+LinPu collected $0.54 from pot
+*** SUMMARY ***
+Total pot $0.56 | Rake $0.02 
+Board [4d 6c 2c]
+Seat 1: LinPu (big blind) collected ($0.54)
+Seat 2: Wimvan folded on the Flop
+Seat 3: Valentiniy folded before Flop (didn't bet)
+Seat 4: -Boban-CZech folded before Flop (didn't bet)
+Seat 6: Nosmin folded before Flop (didn't bet)
+Seat 7: Pakeluka folded on the Flop
+Seat 8: s1gnum794 (button) folded before Flop (didn't bet)
+Seat 9: prikoluka (small blind) folded on the Flop
+
+
+
+PokerStars Hand #100502258954:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/24 10:51:06 ET
+Table 'Anteros II' 9-max Seat #9 is the button
+Seat 1: LinPu ($1.74 in chips) 
+Seat 3: Valentiniy ($2.31 in chips) 
+Seat 4: -Boban-CZech ($2.32 in chips) 
+Seat 6: Nosmin ($2.06 in chips) 
+Seat 7: Pakeluka ($2.86 in chips) 
+Seat 8: s1gnum794 ($0.74 in chips) 
+Seat 9: prikoluka ($1.52 in chips) 
+LinPu: posts small blind $0.01
+Wimvan: is sitting out 
+Valentiniy: posts big blind $0.02
+MisterXJ: sits out 
+*** HOLE CARDS ***
+Dealt to LinPu [2h 9c]
+-Boban-CZech: folds 
+Nosmin: calls $0.02
+Pakeluka: folds 
+s1gnum794: folds 
+prikoluka: folds 
+LinPu: folds 
+Valentiniy: checks 
+*** FLOP *** [6d 9s Td]
+Valentiniy: checks 
+Nosmin: bets $0.04
+Valentiniy: calls $0.04
+*** TURN *** [6d 9s Td] [Qd]
+Valentiniy: checks 
+Nosmin: bets $0.04
+Valentiniy: calls $0.04
+*** RIVER *** [6d 9s Td Qd] [4s]
+s1gnum794 is disconnected 
+Valentiniy: checks 
+Nosmin: bets $0.04
+Valentiniy: raises $0.10 to $0.14
+Nosmin: calls $0.10
+Wimvan leaves the table
+*** SHOW DOWN ***
+Valentiniy: shows [4c 4d] (three of a kind, Fours)
+Nosmin: mucks hand 
+Valentiniy collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [6d 9s Td Qd 4s]
+Seat 1: LinPu (small blind) folded before Flop
+Seat 3: Valentiniy (big blind) showed [4c 4d] and won ($0.47) with three of a kind, Fours
+Seat 4: -Boban-CZech folded before Flop (didn't bet)
+Seat 6: Nosmin mucked [Jc Jd]
+Seat 7: Pakeluka folded before Flop (didn't bet)
+Seat 8: s1gnum794 folded before Flop (didn't bet)
+Seat 9: prikoluka (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100502300261:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/24 10:52:10 ET
+Table 'Anteros II' 9-max Seat #1 is the button
+Seat 1: LinPu ($1.73 in chips) 
+Seat 3: Valentiniy ($2.54 in chips) 
+Seat 4: -Boban-CZech ($2.32 in chips) 
+Seat 6: Nosmin ($1.82 in chips) 
+Seat 7: Pakeluka ($2.86 in chips) 
+Seat 8: s1gnum794 ($0.74 in chips) 
+Seat 9: prikoluka ($1.52 in chips) 
+Valentiniy: posts small blind $0.01
+-Boban-CZech: posts big blind $0.02
+MisterXJ: sits out 
+*** HOLE CARDS ***
+Dealt to LinPu [3c 2c]
+Nosmin: calls $0.02
+Silviu2 joins the table at seat #2 
+Pakeluka: calls $0.02
+s1gnum794: folds 
+prikoluka: folds 
+LinPu has timed out
+LinPu: folds 
+Valentiniy: calls $0.01
+-Boban-CZech: checks 
+*** FLOP *** [Ks 3h Ts]
+Valentiniy: checks 
+-Boban-CZech: checks 
+Nosmin: checks 
+Pakeluka: checks 
+*** TURN *** [Ks 3h Ts] [3s]
+Valentiniy: checks 
+-Boban-CZech: checks 
+Nosmin: checks 
+Pakeluka: checks 
+*** RIVER *** [Ks 3h Ts 3s] [Js]
+Valentiniy: bets $0.06
+-Boban-CZech: folds 
+Nosmin: calls $0.06
+Pakeluka: folds 
+*** SHOW DOWN ***
+Valentiniy: shows [4h Qs] (a flush, King high)
+Nosmin: mucks hand 
+Valentiniy collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Ks 3h Ts 3s Js]
+Seat 1: LinPu (button) folded before Flop (didn't bet)
+Seat 3: Valentiniy (small blind) showed [4h Qs] and won ($0.19) with a flush, King high
+Seat 4: -Boban-CZech (big blind) folded on the River
+Seat 6: Nosmin mucked [6s 6h]
+Seat 7: Pakeluka folded on the River
+Seat 8: s1gnum794 folded before Flop (didn't bet)
+Seat 9: prikoluka folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100502371208:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/24 10:53:58 ET
+Table 'Anteros II' 9-max Seat #4 is the button
+Seat 1: LinPu ($1.73 in chips) 
+Seat 3: Valentiniy ($2.65 in chips) 
+Seat 4: -Boban-CZech ($2.29 in chips) 
+Seat 5: MisterXJ ($0.81 in chips) 
+Seat 6: Nosmin ($1.74 in chips) 
+Seat 7: Pakeluka ($2.84 in chips) 
+Seat 8: s1gnum794 ($0.74 in chips) 
+Seat 9: prikoluka ($1.52 in chips) 
+MisterXJ: posts small blind $0.01
+Nosmin: posts big blind $0.02
+Silviu2: sits out 
+*** HOLE CARDS ***
+Dealt to LinPu [2d 2s]
+Pakeluka: calls $0.02
+s1gnum794: folds 
+prikoluka: folds 
+LinPu: calls $0.02
+Valentiniy: folds 
+-Boban-CZech: folds 
+MisterXJ: folds 
+Nosmin: checks 
+*** FLOP *** [7h Kh 2h]
+Nosmin: checks 
+Pakeluka: bets $0.06
+LinPu: raises $0.06 to $0.12
+Nosmin: folds 
+Pakeluka: folds 
+Uncalled bet ($0.06) returned to LinPu
+LinPu collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [7h Kh 2h]
+Seat 1: LinPu collected ($0.18)
+Seat 3: Valentiniy folded before Flop (didn't bet)
+Seat 4: -Boban-CZech (button) folded before Flop (didn't bet)
+Seat 5: MisterXJ (small blind) folded before Flop
+Seat 6: Nosmin (big blind) folded on the Flop
+Seat 7: Pakeluka folded on the Flop
+Seat 8: s1gnum794 folded before Flop (didn't bet)
+Seat 9: prikoluka folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100502394118:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/24 10:54:34 ET
+Table 'Anteros II' 9-max Seat #5 is the button
+Seat 1: LinPu ($1.83 in chips) 
+Seat 3: Valentiniy ($2.65 in chips) 
+Seat 4: -Boban-CZech ($2.29 in chips) 
+Seat 5: MisterXJ ($0.80 in chips) 
+Seat 6: Nosmin ($1.72 in chips) 
+Seat 7: Pakeluka ($2.76 in chips) 
+Seat 8: s1gnum794 ($0.74 in chips) 
+Seat 9: prikoluka ($1.52 in chips) 
+Nosmin: posts small blind $0.01
+Pakeluka: posts big blind $0.02
+Silviu2: sits out 
+*** HOLE CARDS ***
+Dealt to LinPu [4h 6c]
+s1gnum794: folds 
+prikoluka: calls $0.02
+LinPu: folds 
+Valentiniy: folds 
+-Boban-CZech: raises $0.06 to $0.08
+MisterXJ: folds 
+Nosmin: folds 
+Pakeluka: folds 
+prikoluka: folds 
+Uncalled bet ($0.06) returned to -Boban-CZech
+-Boban-CZech collected $0.07 from pot
+-Boban-CZech: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: LinPu folded before Flop (didn't bet)
+Seat 3: Valentiniy folded before Flop (didn't bet)
+Seat 4: -Boban-CZech collected ($0.07)
+Seat 5: MisterXJ (button) folded before Flop (didn't bet)
+Seat 6: Nosmin (small blind) folded before Flop
+Seat 7: Pakeluka (big blind) folded before Flop
+Seat 8: s1gnum794 folded before Flop (didn't bet)
+Seat 9: prikoluka folded before Flop
+
+
+
+PokerStars Hand #100502412864:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/24 10:55:02 ET
+Table 'Anteros II' 9-max Seat #6 is the button
+Seat 1: LinPu ($1.83 in chips) 
+Seat 3: Valentiniy ($2.65 in chips) 
+Seat 4: -Boban-CZech ($2.34 in chips) 
+Seat 5: MisterXJ ($0.80 in chips) 
+Seat 6: Nosmin ($1.71 in chips) 
+Seat 7: Pakeluka ($2.74 in chips) 
+Seat 8: s1gnum794 ($0.74 in chips) 
+Seat 9: prikoluka ($1.50 in chips) 
+Pakeluka: posts small blind $0.01
+s1gnum794: posts big blind $0.02
+Silviu2: sits out 
+*** HOLE CARDS ***
+Dealt to LinPu [Ah 8c]
+prikoluka: calls $0.02
+LinPu: folds 
+Valentiniy: calls $0.02
+-Boban-CZech: folds 
+MisterXJ: folds 
+Nosmin: folds 
+Pakeluka: calls $0.01
+s1gnum794: checks 
+*** FLOP *** [Ad 3d 4d]
+Pakeluka: checks 
+s1gnum794: checks 
+prikoluka: checks 
+Valentiniy: bets $0.04
+Pakeluka: calls $0.04
+s1gnum794: calls $0.04
+prikoluka: folds 
+*** TURN *** [Ad 3d 4d] [9h]
+Pakeluka: bets $0.06
+s1gnum794: folds 
+Valentiniy: calls $0.06
+*** RIVER *** [Ad 3d 4d 9h] [3h]
+Pakeluka: bets $0.04
+Valentiniy: calls $0.04
+*** SHOW DOWN ***
+Pakeluka: shows [Kd Kh] (two pair, Kings and Threes)
+Valentiniy: shows [Td As] (two pair, Aces and Threes)
+Valentiniy collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [Ad 3d 4d 9h 3h]
+Seat 1: LinPu folded before Flop (didn't bet)
+Seat 3: Valentiniy showed [Td As] and won ($0.39) with two pair, Aces and Threes
+Seat 4: -Boban-CZech folded before Flop (didn't bet)
+Seat 5: MisterXJ folded before Flop (didn't bet)
+Seat 6: Nosmin (button) folded before Flop (didn't bet)
+Seat 7: Pakeluka (small blind) showed [Kd Kh] and lost with two pair, Kings and Threes
+Seat 8: s1gnum794 (big blind) folded on the Turn
+Seat 9: prikoluka folded on the Flop
+
+
+
+PokerStars Hand #100502466534:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/24 10:56:45 ET
+Table 'Anteros II' 9-max Seat #7 is the button
+Seat 1: LinPu ($1.83 in chips) 
+Seat 3: Valentiniy ($2.88 in chips) 
+Seat 4: -Boban-CZech ($2.34 in chips) 
+Seat 5: MisterXJ ($0.80 in chips) 
+Seat 6: Nosmin ($1.71 in chips) 
+Seat 7: Pakeluka ($2.58 in chips) 
+Seat 8: s1gnum794 ($0.68 in chips) 
+Seat 9: prikoluka ($1.48 in chips) 
+s1gnum794: posts small blind $0.01
+prikoluka: posts big blind $0.02
+Silviu2: sits out 
+*** HOLE CARDS ***
+Dealt to LinPu [Jh Qc]
+LinPu: raises $0.06 to $0.08
+Valentiniy: folds 
+-Boban-CZech: folds 
+MisterXJ: calls $0.08
+Nosmin: folds 
+Pakeluka: folds 
+s1gnum794 is connected 
+s1gnum794: folds 
+prikoluka: folds 
+*** FLOP *** [8c 5s 4h]
+LinPu: bets $0.10
+MisterXJ: calls $0.10
+*** TURN *** [8c 5s 4h] [4d]
+LinPu: checks 
+MisterXJ: bets $0.18
+LinPu: folds 
+Uncalled bet ($0.18) returned to MisterXJ
+MisterXJ collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [8c 5s 4h 4d]
+Seat 1: LinPu folded on the Turn
+Seat 3: Valentiniy folded before Flop (didn't bet)
+Seat 4: -Boban-CZech folded before Flop (didn't bet)
+Seat 5: MisterXJ collected ($0.38)
+Seat 6: Nosmin folded before Flop (didn't bet)
+Seat 7: Pakeluka (button) folded before Flop (didn't bet)
+Seat 8: s1gnum794 (small blind) folded before Flop
+Seat 9: prikoluka (big blind) folded before Flop
+
+
+
+PokerStars Hand #100502513935:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/24 10:58:16 ET
+Table 'Anteros II' 9-max Seat #8 is the button
+Seat 1: LinPu ($1.65 in chips) 
+Seat 3: Valentiniy ($2.88 in chips) 
+Seat 4: -Boban-CZech ($2.34 in chips) 
+Seat 5: MisterXJ ($1 in chips) 
+Seat 6: Nosmin ($1.71 in chips) 
+Seat 7: Pakeluka ($2.58 in chips) 
+Seat 8: s1gnum794 ($0.67 in chips) 
+Seat 9: prikoluka ($1.46 in chips) 
+prikoluka: posts small blind $0.01
+LinPu: posts big blind $0.02
+Silviu2: sits out 
+*** HOLE CARDS ***
+Dealt to LinPu [Qh 9d]
+Valentiniy: calls $0.02
+-Boban-CZech: folds 
+MisterXJ: raises $0.02 to $0.04
+Nosmin: folds 
+Pakeluka: folds 
+s1gnum794: folds 
+prikoluka: folds 
+LinPu: calls $0.02
+Valentiniy: calls $0.02
+*** FLOP *** [4c Js 6s]
+LinPu: checks 
+Valentiniy: checks 
+MisterXJ: checks 
+*** TURN *** [4c Js 6s] [8d]
+LinPu: checks 
+Valentiniy: bets $0.08
+MisterXJ: folds 
+LinPu: folds 
+Uncalled bet ($0.08) returned to Valentiniy
+Valentiniy collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4c Js 6s 8d]
+Seat 1: LinPu (big blind) folded on the Turn
+Seat 3: Valentiniy collected ($0.13)
+Seat 4: -Boban-CZech folded before Flop (didn't bet)
+Seat 5: MisterXJ folded on the Turn
+Seat 6: Nosmin folded before Flop (didn't bet)
+Seat 7: Pakeluka folded before Flop (didn't bet)
+Seat 8: s1gnum794 (button) folded before Flop (didn't bet)
+Seat 9: prikoluka (small blind) folded before Flop
+
+
+
+PokerStars Hand #100502543107:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/24 10:59:13 ET
+Table 'Anteros II' 9-max Seat #9 is the button
+Seat 1: LinPu ($1.61 in chips) 
+Seat 2: Silviu2 ($2.46 in chips) 
+Seat 3: Valentiniy ($2.97 in chips) 
+Seat 4: -Boban-CZech ($2.34 in chips) 
+Seat 5: MisterXJ ($0.96 in chips) 
+Seat 6: Nosmin ($1.71 in chips) 
+Seat 7: Pakeluka ($2.58 in chips) 
+Seat 8: s1gnum794 ($0.67 in chips) 
+Seat 9: prikoluka ($1.45 in chips) 
+LinPu: posts small blind $0.01
+Silviu2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [Ad Qh]
+Valentiniy: folds 
+-Boban-CZech: folds 
+MisterXJ: raises $0.04 to $0.06
+Nosmin: folds 
+Pakeluka: folds 
+s1gnum794: folds 
+prikoluka: folds 
+LinPu: raises $0.06 to $0.12
+Silviu2: folds 
+MisterXJ: raises $0.12 to $0.24
+LinPu: raises $0.90 to $1.14
+s1gnum794 leaves the table
+MisterXJ: calls $0.72 and is all-in
+Uncalled bet ($0.18) returned to LinPu
+*** FLOP *** [8h Qc 9h]
+*** TURN *** [8h Qc 9h] [9d]
+*** RIVER *** [8h Qc 9h 9d] [4d]
+*** SHOW DOWN ***
+LinPu: shows [Ad Qh] (two pair, Queens and Nines)
+MisterXJ: shows [Kd Kc] (two pair, Kings and Nines)
+MisterXJ collected $1.87 from pot
+*** SUMMARY ***
+Total pot $1.94 | Rake $0.07 
+Board [8h Qc 9h 9d 4d]
+Seat 1: LinPu (small blind) showed [Ad Qh] and lost with two pair, Queens and Nines
+Seat 2: Silviu2 (big blind) folded before Flop
+Seat 3: Valentiniy folded before Flop (didn't bet)
+Seat 4: -Boban-CZech folded before Flop (didn't bet)
+Seat 5: MisterXJ showed [Kd Kc] and won ($1.87) with two pair, Kings and Nines
+Seat 6: Nosmin folded before Flop (didn't bet)
+Seat 7: Pakeluka folded before Flop (didn't bet)
+Seat 8: s1gnum794 folded before Flop (didn't bet)
+Seat 9: prikoluka (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100502571376:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/24 11:00:05 ET
+Table 'Anteros II' 9-max Seat #1 is the button
+Seat 1: LinPu ($0.65 in chips) 
+Seat 3: Valentiniy ($2.97 in chips) 
+Seat 4: -Boban-CZech ($2.34 in chips) 
+Seat 5: MisterXJ ($1.87 in chips) 
+Seat 6: Nosmin ($1.71 in chips) 
+Seat 7: Pakeluka ($2.58 in chips) 
+Seat 9: prikoluka ($1.45 in chips) 
+Valentiniy: posts small blind $0.01
+-Boban-CZech: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [As 2h]
+Silviu2 leaves the table
+MisterXJ: raises $0.02 to $0.04
+Nosmin: folds 
+Pakeluka: folds 
+prikoluka: calls $0.04
+LinPu: folds 
+Valentiniy: calls $0.03
+-Boban-CZech: folds 
+*** FLOP *** [3h Js 7d]
+Valentiniy: checks 
+Delater joins the table at seat #8 
+MisterXJ: checks 
+benxie joins the table at seat #2 
+prikoluka: checks 
+*** TURN *** [3h Js 7d] [Th]
+Valentiniy: checks 
+MisterXJ: checks 
+prikoluka: bets $0.04
+Valentiniy: folds 
+MisterXJ: calls $0.04
+*** RIVER *** [3h Js 7d Th] [9c]
+MisterXJ: checks 
+prikoluka: bets $0.10
+MisterXJ: folds 
+Uncalled bet ($0.10) returned to prikoluka
+prikoluka collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [3h Js 7d Th 9c]
+Seat 1: LinPu (button) folded before Flop (didn't bet)
+Seat 3: Valentiniy (small blind) folded on the Turn
+Seat 4: -Boban-CZech (big blind) folded before Flop
+Seat 5: MisterXJ folded on the River
+Seat 6: Nosmin folded before Flop (didn't bet)
+Seat 7: Pakeluka folded before Flop (didn't bet)
+Seat 9: prikoluka collected ($0.21)
+
+
+
+PokerStars Hand #100502631988:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/24 11:01:48 ET
+Table 'Anteros II' 9-max Seat #3 is the button
+Seat 1: LinPu ($0.65 in chips) 
+Seat 2: benxie ($1.60 in chips) 
+Seat 3: Valentiniy ($2.93 in chips) 
+Seat 4: -Boban-CZech ($2.32 in chips) 
+Seat 6: Nosmin ($1.71 in chips) 
+Seat 7: Pakeluka ($2.58 in chips) 
+Seat 8: Delater ($1.60 in chips) 
+Seat 9: prikoluka ($1.58 in chips) 
+-Boban-CZech: posts small blind $0.01
+MisterXJ: is sitting out 
+Nosmin: posts big blind $0.02
+Delater: posts big blind $0.02
+benxie: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [9s 2s]
+Pakeluka: folds 
+MisterXJ leaves the table
+Delater: checks 
+prikoluka: raises $0.02 to $0.04
+LinPu: folds 
+benxie: calls $0.02
+theBIGkickz joins the table at seat #5 
+Valentiniy: folds 
+-Boban-CZech: folds 
+Nosmin: folds 
+Delater: calls $0.02
+*** FLOP *** [8c Ah 3c]
+Delater: checks 
+prikoluka: bets $0.06
+benxie: folds 
+Delater: folds 
+Uncalled bet ($0.06) returned to prikoluka
+prikoluka collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [8c Ah 3c]
+Seat 1: LinPu folded before Flop (didn't bet)
+Seat 2: benxie folded on the Flop
+Seat 3: Valentiniy (button) folded before Flop (didn't bet)
+Seat 4: -Boban-CZech (small blind) folded before Flop
+Seat 6: Nosmin (big blind) folded before Flop
+Seat 7: Pakeluka folded before Flop (didn't bet)
+Seat 8: Delater folded on the Flop
+Seat 9: prikoluka collected ($0.14)
+
+
+
+PokerStars Hand #100502652943:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/24 11:02:20 ET
+Table 'Anteros II' 9-max Seat #4 is the button
+Seat 1: LinPu ($0.65 in chips) 
+Seat 2: benxie ($1.56 in chips) 
+Seat 3: Valentiniy ($2.93 in chips) 
+Seat 4: -Boban-CZech ($2.31 in chips) 
+Seat 6: Nosmin ($1.69 in chips) 
+Seat 7: Pakeluka ($2.58 in chips) 
+Seat 8: Delater ($1.56 in chips) 
+Seat 9: prikoluka ($1.68 in chips) 
+theBIGkickz will be allowed to play after the button
+Nosmin: posts small blind $0.01
+Pakeluka: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [3c 2c]
+Delater: folds 
+prikoluka: folds 
+LinPu: raises $0.06 to $0.08
+benxie: calls $0.08
+Valentiniy: folds 
+-Boban-CZech: calls $0.08
+Nosmin: folds 
+Pakeluka: folds 
+*** FLOP *** [Kc 2d 2h]
+LinPu: checks 
+benxie: checks 
+-Boban-CZech: bets $0.10
+LinPu: calls $0.10
+benxie: calls $0.10
+*** TURN *** [Kc 2d 2h] [9d]
+LinPu: checks 
+benxie: checks 
+-Boban-CZech: bets $0.14
+LinPu: raises $0.33 to $0.47 and is all-in
+benxie: folds 
+-Boban-CZech: calls $0.33
+*** RIVER *** [Kc 2d 2h 9d] [7h]
+*** SHOW DOWN ***
+LinPu: shows [3c 2c] (three of a kind, Deuces)
+-Boban-CZech: shows [Kh Qh] (two pair, Kings and Deuces)
+LinPu collected $1.46 from pot
+*** SUMMARY ***
+Total pot $1.51 | Rake $0.05 
+Board [Kc 2d 2h 9d 7h]
+Seat 1: LinPu showed [3c 2c] and won ($1.46) with three of a kind, Deuces
+Seat 2: benxie folded on the Turn
+Seat 3: Valentiniy folded before Flop (didn't bet)
+Seat 4: -Boban-CZech (button) showed [Kh Qh] and lost with two pair, Kings and Deuces
+Seat 6: Nosmin (small blind) folded before Flop
+Seat 7: Pakeluka (big blind) folded before Flop
+Seat 8: Delater folded before Flop (didn't bet)
+Seat 9: prikoluka folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100502693236:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/24 11:03:21 ET
+Table 'Anteros II' 9-max Seat #6 is the button
+Seat 1: LinPu ($1.46 in chips) 
+Seat 2: benxie ($1.38 in chips) 
+Seat 3: Valentiniy ($2.93 in chips) 
+Seat 4: -Boban-CZech ($2 in chips) 
+Seat 6: Nosmin ($1.68 in chips) 
+Seat 7: Pakeluka ($2.56 in chips) 
+Seat 8: Delater ($1.56 in chips) 
+Seat 9: prikoluka ($1.68 in chips) 
+Pakeluka: posts small blind $0.01
+Delater: posts big blind $0.02
+theBIGkickz: sits out 
+*** HOLE CARDS ***
+Dealt to LinPu [7h 9h]
+prikoluka: raises $0.04 to $0.06
+LinPu: folds 
+benxie: folds 
+Valentiniy: folds 
+-Boban-CZech: folds 
+Nosmin: folds 
+Pakeluka: folds 
+Delater: folds 
+Uncalled bet ($0.04) returned to prikoluka
+prikoluka collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: LinPu folded before Flop (didn't bet)
+Seat 2: benxie folded before Flop (didn't bet)
+Seat 3: Valentiniy folded before Flop (didn't bet)
+Seat 4: -Boban-CZech folded before Flop (didn't bet)
+Seat 6: Nosmin (button) folded before Flop (didn't bet)
+Seat 7: Pakeluka (small blind) folded before Flop
+Seat 8: Delater (big blind) folded before Flop
+Seat 9: prikoluka collected ($0.05)
+
+
+
+PokerStars Hand #100502703901:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/24 11:03:37 ET
+Table 'Anteros II' 9-max Seat #8 is the button
+Seat 1: LinPu ($1.46 in chips) 
+Seat 2: benxie ($1.38 in chips) 
+Seat 3: Valentiniy ($2.93 in chips) 
+Seat 4: -Boban-CZech ($2 in chips) 
+Seat 6: Nosmin ($1.68 in chips) 
+Seat 8: Delater ($1.54 in chips) 
+Seat 9: prikoluka ($1.71 in chips) 
+prikoluka: posts small blind $0.01
+LinPu: posts big blind $0.02
+theBIGkickz: sits out 
+*** HOLE CARDS ***
+Dealt to LinPu [3c Jd]
+Pakeluka leaves the table
+benxie: folds 
+Valentiniy: folds 
+mauliciorr joins the table at seat #7 
+-Boban-CZech: raises $0.08 to $0.10
+Nosmin: folds 
+Delater: folds 
+prikoluka: folds 
+LinPu: folds 
+Uncalled bet ($0.08) returned to -Boban-CZech
+-Boban-CZech collected $0.05 from pot
+-Boban-CZech: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: LinPu (big blind) folded before Flop
+Seat 2: benxie folded before Flop (didn't bet)
+Seat 3: Valentiniy folded before Flop (didn't bet)
+Seat 4: -Boban-CZech collected ($0.05)
+Seat 6: Nosmin folded before Flop (didn't bet)
+Seat 8: Delater (button) folded before Flop (didn't bet)
+Seat 9: prikoluka (small blind) folded before Flop
+
+
+
+PokerStars Hand #100502713092:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/24 11:03:51 ET
+Table 'Anteros II' 9-max Seat #9 is the button
+Seat 1: LinPu ($1.44 in chips) 
+Seat 2: benxie ($1.38 in chips) 
+Seat 3: Valentiniy ($2.93 in chips) 
+Seat 4: -Boban-CZech ($2.03 in chips) 
+Seat 6: Nosmin ($1.68 in chips) 
+Seat 8: Delater ($1.54 in chips) 
+Seat 9: prikoluka ($1.70 in chips) 
+LinPu: posts small blind $0.01
+benxie: posts big blind $0.02
+theBIGkickz: sits out 
+mauliciorr: sits out 
+*** HOLE CARDS ***
+Dealt to LinPu [Qh 5d]
+Valentiniy: folds 
+-Boban-CZech: folds 
+Nosmin: folds 
+Delater: folds 
+prikoluka: raises $0.04 to $0.06
+LinPu: folds 
+benxie: folds 
+Uncalled bet ($0.04) returned to prikoluka
+prikoluka collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: LinPu (small blind) folded before Flop
+Seat 2: benxie (big blind) folded before Flop
+Seat 3: Valentiniy folded before Flop (didn't bet)
+Seat 4: -Boban-CZech folded before Flop (didn't bet)
+Seat 6: Nosmin folded before Flop (didn't bet)
+Seat 8: Delater folded before Flop (didn't bet)
+Seat 9: prikoluka (button) collected ($0.05)
+
+
+

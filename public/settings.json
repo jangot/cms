@@ -1,0 +1,379 @@
+{
+    "types" : {
+        "1" : "list",
+        "2" : "diapason",
+        "3" : "boolean"
+    },
+    "items" : [
+        {
+            "name" : "price",
+            "type" : 2,
+            "options" : [0, 500000]
+        },
+        {
+            "name" : "brand",
+            "type" : 1,
+            "options" : [
+                "Ashtone",
+                "Cort",
+                "Epiphone",
+                "Fender",
+                "Gibson",
+                "Ibanez",
+                "LAG",
+                "Schecter",
+                "Squier",
+                "Washburn",
+                "Yamaha",
+                "Zombie",
+                "Alina",
+                "Pro",
+                "ARIA",
+                "Ashton",
+                "AXL",
+                "B.C. Rich",
+                "BEHRINGER",
+                "Blade",
+                "Brahner",
+                "Bulldog",
+                "Burny",
+                "Caraya",
+                "Charvel",
+                "Clevan",
+                "Crafter",
+                "Cruiser",
+                "D'Angelico",
+                "Daisy",
+                "Rock",
+                "DBZ",
+                "Dean",
+                "Edwards",
+                "Encore",
+                "ESP",
+                "Euphony",
+                "EVH",
+                "Fernandes",
+                "Guitars",
+                "Flight",
+                "FloydRose",
+                "Flying",
+                "Framus",
+                "Freeway",
+                "FUJIGEN",
+                "G&L",
+                "Godin",
+                "Grass",
+                "Roots",
+                "Greg",
+                "Bennett",
+                "Gretsch",
+                "Gypsy",
+                "Rose",
+                "Hagstrom",
+                "Hofner",
+                "Hohner",
+                "Homage",
+                "INVASION",
+                "J&D",
+                "Jackson",
+                "Jam",
+                "Mate",
+                "Jay",
+                "Turser",
+                "JET",
+                "Jolana",
+                "Kramer",
+                "Lace",
+                "Line6",
+                "LTD",
+                "Magna",
+                "Maxtone",
+                "Maxwood",
+                "Mayones",
+                "Michael",
+                "Kelly",
+                "Moog",
+                "Music Man",
+                "OLP",
+                "Oscar",
+                "Schmidt",
+                "Paradise",
+                "Parker",
+                "Peavey",
+                "Peerless",
+                "Phil Pro",
+                "PRS",
+                "Recording King",
+                "Red Stone",
+                "Reverend",
+                "Richmond",
+                "ROCKBASS",
+                "Rockdale",
+                "Rockson",
+                "Roland",
+                "Russtone",
+                "Samick",
+                "Sandberg",
+                "Scorpion",
+                "Spector",
+                "Stagg",
+                "Sterling",
+                "Swing",
+                "SX",
+                "Tanglewood",
+                "Taylor",
+                "Tenson",
+                "Terris",
+                "TNC",
+                "Tokai",
+                "Torque",
+                "Traben",
+                "Traveler",
+                "VGS",
+                "Vintage",
+                "VOX",
+                "Warwick",
+                "Woodstock",
+                "Zander"
+            ]
+        },
+        {
+            "name" : "type",
+            "type" : 1,
+            "options" : [
+                "bass",
+                "electric"
+            ]
+        },
+        {
+            "name" : "scale",
+            "type" : 2,
+            "options" : [22, 35]
+        },
+        {
+            "name" : "number_of_strings",
+            "type" : 1,
+            "options" : [
+                4, 5, 6, 7, 8, 12
+            ]
+        },
+        {
+            "name" : "fastening_neck",
+            "type" : 1,
+            "options" : [
+                "bolt",
+                "glue",
+                "through"
+            ]
+        },
+        {
+            "name" : "scheme_pickup",
+            "type" : 1,
+            "options" : [
+                "H",
+                "H-H",
+                "H-H-H",
+                "H-S",
+                "H-S-H",
+                "H-S-S",
+                "H-S-S-H",
+                "S",
+                "S-H",
+                "S-S",
+                "S-S-S",
+                "S-S-S-S",
+                "T-S"
+            ]
+        },
+        {
+            "name" : "manufacturer_pickup",
+            "type" : 1,
+            "options" : [
+                "DiMarzio",
+                "EMG",
+                "ESP",
+                "Gibson",
+                "Levinson",
+                "MEC",
+                "Seymour Duncan",
+                "Wilkinson",
+                "guitar maker"
+            ]
+        },
+        {
+            "name" : "piezo",
+            "type" : 3
+        },
+        {
+            "name" : "number_volume",
+            "type" : 1,
+            "options" : [1, 2, 3]
+        },
+        {
+            "name" : "number_tone",
+            "type" : 1 ,
+            "options" : [1, 2, 3, 4]
+        },
+        {
+            "name" : "active_electronics",
+            "type" : 3
+        },
+        {
+            "name" : "body_form",
+            "type" : 1,
+            "options" : [
+                "explorer",
+                "les paul",
+                "sg",
+                "stratocaster",
+                "superstrat",
+                "telecaster",
+                "v",
+                "aggressive",
+                "other"
+            ]
+        },
+        {
+            "name" : "deck_material",
+            "type" : 1,
+            "options" : [
+                "agathis",
+                "bubinga",
+                "ulmaceae",
+                "pícea",
+                "cedrus",
+                "acer",
+                "terminalia_superba",
+                "mahagoni",
+                "tília",
+                "luthite",
+                "nato",
+                "ovangkol",
+                "alnus",
+                "paulownia",
+                "pinus",
+                "populus",
+                "fraxinus",
+                "other"
+            ]
+        },
+        {
+            "name" : "string_through_body",
+            "type" : 3
+        },
+        {
+            "name" : "neck_material",
+            "type" : 1,
+            "options" : [
+                "wenge",
+                "acer",
+                "acer|bubinga",
+                "acer|mahagoni",
+                "acer|nux",
+                "acer|palissandre",
+                "mahagoni",
+                "mahagoni|nux",
+                "ovangkol",
+                "palissandre",
+                "jatoba|bubinga"
+            ]
+        },
+        {
+            "name" : "fingerboard_material",
+            "type" : 1,
+            "options" : [
+                "wenge",
+                "lignum_vitae",
+                "acer",
+                "palissandre",
+                "sonokelin",
+                "ebony"
+            ]
+        },
+        {
+            "name" : "nut_material",
+            "type" : 1,
+            "options" : [
+                "acrylic_stone",
+                "graphite",
+                "bone",
+                "brass",
+                "copper",
+                "nickel",
+                "plastic",
+                "synthetic_bone"
+            ]
+        },
+        {
+            "name" : "saddle_clamp",
+            "type" : 3
+        },
+        {
+            "name" : "locking_tuners",
+            "type" : 3
+        },
+        {
+            "name" : "number_frets",
+            "type" : 1,
+            "options" : [19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]
+        },
+        {
+            "name" : "fretless_fingerboard",
+            "type" : 3
+        },
+        {
+            "name" : "radius_lining",
+            "type" : 2,
+            "options" : [199, 1300]
+        },
+        {
+            "name" : "neck_width_nut",
+            "type" : 2,
+            "options" : [35, 55]
+        },
+        {
+            "name" : "without_headstock",
+            "type" : 3
+        },
+        {
+            "name" : "inlay",
+            "type" : 1,
+            "options" : [
+                "without",
+                "simple",
+                "dots",
+                "art"
+            ]
+        },
+        {
+            "name" : "drawing_deck",
+            "type" : 3
+        },
+        {
+            "name" : "edging",
+            "type" : 3
+        },
+        {
+            "name" : "hardware_color",
+            "type" : 1,
+            "options" : [
+                "gold",
+                "silver",
+                "chrome",
+                "black"
+            ]
+        },
+        {
+            "name" : "aged",
+            "type" : 3
+        },
+        {
+            "name" : "case",
+            "type" : 3
+        },
+        {
+            "name" : "left_handed",
+            "type" : 3
+        }
+    ]
+}

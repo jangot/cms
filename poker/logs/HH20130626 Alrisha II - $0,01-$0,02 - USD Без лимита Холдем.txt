@@ -1,0 +1,535 @@
+﻿PokerStars Hand #100587052512:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 6:40:23 ET
+Table 'Alrisha II' 9-max Seat #4 is the button
+Seat 1: LinPu ($1.60 in chips) 
+Seat 2: Helmes46 ($3.64 in chips) 
+Seat 3: VV2T ($0.81 in chips) 
+Seat 4: Korol rivera ($1.24 in chips) 
+Seat 5: CHECO97 ($3.63 in chips) 
+Seat 6: agwd69 ($3.25 in chips) 
+Seat 7: bikbnk73 ($0.76 in chips) 
+Seat 8: kubikandy92 ($3 in chips) 
+CHECO97: posts small blind $0.01
+agwd69: posts big blind $0.02
+LinPu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [7d 6d]
+bikbnk73: folds 
+kubikandy92: folds 
+LinPu: checks 
+Helmes46: folds 
+VV2T: folds 
+Korol rivera: folds 
+CHECO97: folds 
+agwd69: raises $0.04 to $0.06
+LinPu: calls $0.04
+*** FLOP *** [2s 7h Kc]
+agwd69: checks 
+LinPu: bets $0.08
+agwd69: calls $0.08
+*** TURN *** [2s 7h Kc] [4s]
+agwd69: checks 
+LinPu: checks 
+*** RIVER *** [2s 7h Kc 4s] [9s]
+agwd69: checks 
+LinPu: checks 
+*** SHOW DOWN ***
+agwd69: shows [Jd As] (high card Ace)
+LinPu: shows [7d 6d] (a pair of Sevens)
+LinPu collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [2s 7h Kc 4s 9s]
+Seat 1: LinPu showed [7d 6d] and won ($0.28) with a pair of Sevens
+Seat 2: Helmes46 folded before Flop (didn't bet)
+Seat 3: VV2T folded before Flop (didn't bet)
+Seat 4: Korol rivera (button) folded before Flop (didn't bet)
+Seat 5: CHECO97 (small blind) folded before Flop
+Seat 6: agwd69 (big blind) showed [Jd As] and lost with high card Ace
+Seat 7: bikbnk73 folded before Flop (didn't bet)
+Seat 8: kubikandy92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100587076208:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 6:41:18 ET
+Table 'Alrisha II' 9-max Seat #5 is the button
+Seat 1: LinPu ($1.74 in chips) 
+Seat 2: Helmes46 ($3.64 in chips) 
+Seat 3: VV2T ($0.81 in chips) 
+Seat 4: Korol rivera ($1.24 in chips) 
+Seat 5: CHECO97 ($3.62 in chips) 
+Seat 6: agwd69 ($3.11 in chips) 
+Seat 7: bikbnk73 ($0.76 in chips) 
+Seat 8: kubikandy92 ($3 in chips) 
+agwd69: posts small blind $0.01
+bikbnk73: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [6h Ts]
+kubikandy92: folds 
+LinPu: folds 
+Helmes46: calls $0.02
+VV2T: folds 
+Korol rivera: folds 
+CHECO97: calls $0.02
+agwd69: calls $0.01
+bikbnk73: checks 
+*** FLOP *** [5h Jc 2d]
+agwd69: checks 
+bikbnk73: checks 
+Helmes46: checks 
+CHECO97: bets $0.02
+agwd69: folds 
+bikbnk73: folds 
+Helmes46: calls $0.02
+*** TURN *** [5h Jc 2d] [5s]
+Helmes46: checks 
+CHECO97: bets $0.06
+Helmes46: folds 
+Uncalled bet ($0.06) returned to CHECO97
+CHECO97 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [5h Jc 2d 5s]
+Seat 1: LinPu folded before Flop (didn't bet)
+Seat 2: Helmes46 folded on the Turn
+Seat 3: VV2T folded before Flop (didn't bet)
+Seat 4: Korol rivera folded before Flop (didn't bet)
+Seat 5: CHECO97 (button) collected ($0.12)
+Seat 6: agwd69 (small blind) folded on the Flop
+Seat 7: bikbnk73 (big blind) folded on the Flop
+Seat 8: kubikandy92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100587160517:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 6:44:33 ET
+Table 'Alrisha II' 9-max Seat #2 is the button
+Seat 1: LinPu ($1.74 in chips) 
+Seat 2: Helmes46 ($3.62 in chips) 
+Seat 3: VV2T ($0.80 in chips) 
+Seat 4: Korol rivera ($1.62 in chips) 
+Seat 5: CHECO97 ($3.70 in chips) 
+Seat 6: agwd69 ($2.73 in chips) 
+Seat 7: bikbnk73 ($0.73 in chips) 
+Seat 8: kubikandy92 ($2.97 in chips) 
+VV2T: posts small blind $0.01
+Korol rivera: posts big blind $0.02
+LinPu: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to LinPu [5c 6s]
+CHECO97: folds 
+agwd69: folds 
+bikbnk73: raises $0.06 to $0.08
+kubikandy92: folds 
+LinPu: folds 
+Helmes46: folds 
+VV2T: folds 
+Korol rivera: folds 
+Uncalled bet ($0.06) returned to bikbnk73
+bikbnk73 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: LinPu folded before Flop
+Seat 2: Helmes46 (button) folded before Flop (didn't bet)
+Seat 3: VV2T (small blind) folded before Flop
+Seat 4: Korol rivera (big blind) folded before Flop
+Seat 5: CHECO97 folded before Flop (didn't bet)
+Seat 6: agwd69 folded before Flop (didn't bet)
+Seat 7: bikbnk73 collected ($0.08)
+Seat 8: kubikandy92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100587175144:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 6:45:07 ET
+Table 'Alrisha II' 9-max Seat #3 is the button
+Seat 1: LinPu ($1.71 in chips) 
+Seat 2: Helmes46 ($3.62 in chips) 
+Seat 3: VV2T ($0.80 in chips) 
+Seat 4: Korol rivera ($1.60 in chips) 
+Seat 5: CHECO97 ($3.70 in chips) 
+Seat 6: agwd69 ($2.73 in chips) 
+Seat 7: bikbnk73 ($0.79 in chips) 
+Seat 8: kubikandy92 ($2.97 in chips) 
+Korol rivera: posts small blind $0.01
+CHECO97: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [7d Th]
+agwd69: folds 
+bikbnk73: folds 
+kubikandy92: folds 
+LinPu: folds 
+Helmes46: folds 
+VV2T: folds 
+bikbnk73 leaves the table
+Korol rivera: raises $0.02 to $0.04
+CHECO97: calls $0.02
+*** FLOP *** [Jc 4s 6s]
+Korol rivera: bets $0.04
+CHECO97: calls $0.04
+*** TURN *** [Jc 4s 6s] [8h]
+Korol rivera: checks 
+CHECO97: bets $0.08
+Korol rivera: folds 
+Uncalled bet ($0.08) returned to CHECO97
+CHECO97 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Jc 4s 6s 8h]
+Seat 1: LinPu folded before Flop (didn't bet)
+Seat 2: Helmes46 folded before Flop (didn't bet)
+Seat 3: VV2T (button) folded before Flop (didn't bet)
+Seat 4: Korol rivera (small blind) folded on the Turn
+Seat 5: CHECO97 (big blind) collected ($0.15)
+Seat 6: agwd69 folded before Flop (didn't bet)
+Seat 7: bikbnk73 folded before Flop (didn't bet)
+Seat 8: kubikandy92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100587195144:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 6:45:53 ET
+Table 'Alrisha II' 9-max Seat #4 is the button
+Seat 1: LinPu ($1.71 in chips) 
+Seat 2: Helmes46 ($3.62 in chips) 
+Seat 3: VV2T ($0.80 in chips) 
+Seat 4: Korol rivera ($1.52 in chips) 
+Seat 5: CHECO97 ($3.77 in chips) 
+Seat 6: agwd69 ($2.73 in chips) 
+Seat 8: kubikandy92 ($2.97 in chips) 
+CHECO97: posts small blind $0.01
+agwd69: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [Kd 7h]
+daar888 joins the table at seat #7 
+kubikandy92: folds 
+LinPu: folds 
+Helmes46: calls $0.02
+VV2T: folds 
+Korol rivera: folds 
+CHECO97: calls $0.01
+agwd69: checks 
+*** FLOP *** [9c 7d Th]
+CHECO97: checks 
+agwd69: checks 
+Helmes46: checks 
+*** TURN *** [9c 7d Th] [9s]
+CHECO97: checks 
+agwd69: checks 
+Helmes46: checks 
+*** RIVER *** [9c 7d Th 9s] [8h]
+CHECO97: checks 
+agwd69: checks 
+Helmes46: bets $0.02
+CHECO97: folds 
+agwd69: calls $0.02
+*** SHOW DOWN ***
+Helmes46: shows [Kh 6h] (a straight, Six to Ten)
+agwd69: mucks hand 
+Helmes46 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [9c 7d Th 9s 8h]
+Seat 1: LinPu folded before Flop (didn't bet)
+Seat 2: Helmes46 showed [Kh 6h] and won ($0.10) with a straight, Six to Ten
+Seat 3: VV2T folded before Flop (didn't bet)
+Seat 4: Korol rivera (button) folded before Flop (didn't bet)
+Seat 5: CHECO97 (small blind) folded on the River
+Seat 6: agwd69 (big blind) mucked [4s 9d]
+Seat 8: kubikandy92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100587219350:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 6:46:48 ET
+Table 'Alrisha II' 9-max Seat #5 is the button
+Seat 1: LinPu ($1.71 in chips) 
+Seat 2: Helmes46 ($3.68 in chips) 
+Seat 3: VV2T ($0.80 in chips) 
+Seat 4: Korol rivera ($1.52 in chips) 
+Seat 5: CHECO97 ($3.75 in chips) 
+Seat 6: agwd69 ($2.69 in chips) 
+Seat 7: daar888 ($0.80 in chips) 
+Seat 8: kubikandy92 ($2.97 in chips) 
+agwd69: posts small blind $0.01
+daar888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [Kh Jh]
+kubikandy92: folds 
+LinPu: raises $0.06 to $0.08
+Helmes46: folds 
+VV2T: folds 
+Korol rivera: folds 
+CHECO97: calls $0.08
+agwd69: folds 
+daar888: folds 
+*** FLOP *** [8h 7c Kd]
+LinPu: bets $0.08
+CHECO97: calls $0.08
+*** TURN *** [8h 7c Kd] [Ac]
+LinPu: checks 
+CHECO97: checks 
+*** RIVER *** [8h 7c Kd Ac] [Ts]
+LinPu: bets $0.20
+CHECO97: folds 
+Uncalled bet ($0.20) returned to LinPu
+LinPu collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [8h 7c Kd Ac Ts]
+Seat 1: LinPu collected ($0.34)
+Seat 2: Helmes46 folded before Flop (didn't bet)
+Seat 3: VV2T folded before Flop (didn't bet)
+Seat 4: Korol rivera folded before Flop (didn't bet)
+Seat 5: CHECO97 (button) folded on the River
+Seat 6: agwd69 (small blind) folded before Flop
+Seat 7: daar888 (big blind) folded before Flop
+Seat 8: kubikandy92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100587239445:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 6:47:34 ET
+Table 'Alrisha II' 9-max Seat #6 is the button
+Seat 1: LinPu ($1.89 in chips) 
+Seat 2: Helmes46 ($3.68 in chips) 
+Seat 3: VV2T ($0.80 in chips) 
+Seat 4: Korol rivera ($1.52 in chips) 
+Seat 5: CHECO97 ($3.59 in chips) 
+Seat 6: agwd69 ($2.68 in chips) 
+Seat 7: daar888 ($0.78 in chips) 
+Seat 8: kubikandy92 ($2.97 in chips) 
+Seat 9: oleg197527 ($1.56 in chips) 
+daar888: posts small blind $0.01
+kubikandy92: posts big blind $0.02
+oleg197527: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to LinPu [Ad 9s]
+oleg197527: checks 
+LinPu: folds 
+Helmes46: folds 
+VV2T: folds 
+Korol rivera: folds 
+CHECO97: folds 
+agwd69: raises $0.04 to $0.06
+daar888: folds 
+kubikandy92: folds 
+oleg197527: calls $0.04
+*** FLOP *** [As Tc 6h]
+oleg197527: checks 
+agwd69: checks 
+*** TURN *** [As Tc 6h] [6s]
+oleg197527: checks 
+agwd69: checks 
+*** RIVER *** [As Tc 6h 6s] [9h]
+oleg197527: checks 
+agwd69: checks 
+*** SHOW DOWN ***
+oleg197527: shows [Jd 4h] (a pair of Sixes)
+agwd69: shows [5d 5h] (two pair, Sixes and Fives)
+agwd69 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [As Tc 6h 6s 9h]
+Seat 1: LinPu folded before Flop (didn't bet)
+Seat 2: Helmes46 folded before Flop (didn't bet)
+Seat 3: VV2T folded before Flop (didn't bet)
+Seat 4: Korol rivera folded before Flop (didn't bet)
+Seat 5: CHECO97 folded before Flop (didn't bet)
+Seat 6: agwd69 (button) showed [5d 5h] and won ($0.15) with two pair, Sixes and Fives
+Seat 7: daar888 (small blind) folded before Flop
+Seat 8: kubikandy92 (big blind) folded before Flop
+Seat 9: oleg197527 showed [Jd 4h] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #100587266168:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 6:48:35 ET
+Table 'Alrisha II' 9-max Seat #7 is the button
+Seat 1: LinPu ($1.89 in chips) 
+Seat 2: Helmes46 ($3.68 in chips) 
+Seat 3: VV2T ($0.80 in chips) 
+Seat 4: Korol rivera ($1.52 in chips) 
+Seat 5: CHECO97 ($3.59 in chips) 
+Seat 6: agwd69 ($2.77 in chips) 
+Seat 7: daar888 ($0.77 in chips) 
+Seat 8: kubikandy92 ($2.95 in chips) 
+Seat 9: oleg197527 ($1.49 in chips) 
+kubikandy92: posts small blind $0.01
+oleg197527: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [9c Jc]
+LinPu: folds 
+Helmes46: folds 
+VV2T: folds 
+Korol rivera: raises $0.04 to $0.06
+CHECO97: folds 
+agwd69: folds 
+daar888: folds 
+kubikandy92: folds 
+oleg197527: calls $0.04
+*** FLOP *** [Ac 6h Ah]
+oleg197527: checks 
+Korol rivera: bets $0.06
+oleg197527: calls $0.06
+*** TURN *** [Ac 6h Ah] [9s]
+oleg197527: checks 
+Korol rivera: checks 
+*** RIVER *** [Ac 6h Ah 9s] [5c]
+oleg197527: bets $0.06
+Korol rivera: folds 
+Uncalled bet ($0.06) returned to oleg197527
+oleg197527 collected $0.24 from pot
+oleg197527: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ac 6h Ah 9s 5c]
+Seat 1: LinPu folded before Flop (didn't bet)
+Seat 2: Helmes46 folded before Flop (didn't bet)
+Seat 3: VV2T folded before Flop (didn't bet)
+Seat 4: Korol rivera folded on the River
+Seat 5: CHECO97 folded before Flop (didn't bet)
+Seat 6: agwd69 folded before Flop (didn't bet)
+Seat 7: daar888 (button) folded before Flop (didn't bet)
+Seat 8: kubikandy92 (small blind) folded before Flop
+Seat 9: oleg197527 (big blind) collected ($0.24)
+
+
+
+PokerStars Hand #100587288724:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 6:49:26 ET
+Table 'Alrisha II' 9-max Seat #8 is the button
+Seat 1: LinPu ($1.89 in chips) 
+Seat 2: Helmes46 ($3.68 in chips) 
+Seat 3: VV2T ($0.80 in chips) 
+Seat 4: Korol rivera ($1.40 in chips) 
+Seat 5: CHECO97 ($3.59 in chips) 
+Seat 6: agwd69 ($2.77 in chips) 
+Seat 7: daar888 ($0.77 in chips) 
+Seat 8: kubikandy92 ($2.94 in chips) 
+Seat 9: oleg197527 ($1.61 in chips) 
+oleg197527: posts small blind $0.01
+LinPu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [8s Jh]
+Helmes46: folds 
+VV2T: folds 
+Korol rivera: folds 
+CHECO97: folds 
+agwd69: folds 
+daar888: folds 
+kubikandy92: folds 
+oleg197527: folds 
+Uncalled bet ($0.01) returned to LinPu
+LinPu collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: LinPu (big blind) collected ($0.02)
+Seat 2: Helmes46 folded before Flop (didn't bet)
+Seat 3: VV2T folded before Flop (didn't bet)
+Seat 4: Korol rivera folded before Flop (didn't bet)
+Seat 5: CHECO97 folded before Flop (didn't bet)
+Seat 6: agwd69 folded before Flop (didn't bet)
+Seat 7: daar888 folded before Flop (didn't bet)
+Seat 8: kubikandy92 (button) folded before Flop (didn't bet)
+Seat 9: oleg197527 (small blind) folded before Flop
+
+
+
+PokerStars Hand #100587321572:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 6:50:42 ET
+Table 'Alrisha II' 9-max Seat #2 is the button
+Seat 1: LinPu ($1.90 in chips) 
+Seat 2: Helmes46 ($3.66 in chips) 
+Seat 3: VV2T ($0.80 in chips) 
+Seat 4: Korol rivera ($1.40 in chips) 
+Seat 5: CHECO97 ($3.59 in chips) 
+Seat 6: agwd69 ($2.77 in chips) 
+Seat 7: daar888 ($0.77 in chips) 
+Seat 8: kubikandy92 ($2.94 in chips) 
+Seat 9: oleg197527 ($1.66 in chips) 
+VV2T: posts small blind $0.01
+Korol rivera: posts big blind $0.02
+LinPu: posts small blind $0.01
+*** HOLE CARDS ***
+Dealt to LinPu [6s 7c]
+CHECO97: folds 
+agwd69: raises $0.04 to $0.06
+daar888: folds 
+kubikandy92: calls $0.06
+oleg197527: folds 
+LinPu: folds 
+Helmes46: folds 
+VV2T: folds 
+Korol rivera: folds 
+*** FLOP *** [2h 8d 2d]
+agwd69: bets $0.10
+kubikandy92: folds 
+Uncalled bet ($0.10) returned to agwd69
+agwd69 collected $0.15 from pot
+agwd69: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [2h 8d 2d]
+Seat 1: LinPu folded before Flop
+Seat 2: Helmes46 (button) folded before Flop (didn't bet)
+Seat 3: VV2T (small blind) folded before Flop
+Seat 4: Korol rivera (big blind) folded before Flop
+Seat 5: CHECO97 folded before Flop (didn't bet)
+Seat 6: agwd69 collected ($0.15)
+Seat 7: daar888 folded before Flop (didn't bet)
+Seat 8: kubikandy92 folded on the Flop
+Seat 9: oleg197527 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100587348120:  Hold'em No Limit ($0.01/$0.02 USD) - 2013/06/26 6:51:42 ET
+Table 'Alrisha II' 9-max Seat #3 is the button
+Seat 1: LinPu ($1.89 in chips) 
+Seat 2: Helmes46 ($3.66 in chips) 
+Seat 3: VV2T ($0.80 in chips) 
+Seat 4: Korol rivera ($1.38 in chips) 
+Seat 5: CHECO97 ($3.59 in chips) 
+Seat 6: agwd69 ($2.86 in chips) 
+Seat 7: daar888 ($0.77 in chips) 
+Seat 8: kubikandy92 ($2.88 in chips) 
+Seat 9: oleg197527 ($1.66 in chips) 
+Korol rivera: posts small blind $0.01
+CHECO97: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to LinPu [Js As]
+agwd69: calls $0.02
+daar888: folds 
+kubikandy92: folds 
+oleg197527: calls $0.02
+LinPu: raises $0.06 to $0.08
+Helmes46: calls $0.08
+VV2T: folds 
+Korol rivera: folds 
+CHECO97: folds 
+agwd69: folds 
+oleg197527: calls $0.06
+*** FLOP *** [8c 6c 5c]
+oleg197527: checks 
+LinPu: bets $0.08
+Helmes46: calls $0.08
+oleg197527: calls $0.08
+*** TURN *** [8c 6c 5c] [5s]
+oleg197527: checks 
+LinPu: checks 
+Helmes46: checks 
+*** RIVER *** [8c 6c 5c 5s] [5d]
+oleg197527: checks 
+LinPu: bets $0.08
+Helmes46: calls $0.08
+oleg197527: folds 
+*** SHOW DOWN ***
+LinPu: shows [Js As] (three of a kind, Fives)
+Helmes46: shows [Ac Ad] (a full house, Fives full of Aces)
+Helmes46 collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.69 | Rake $0.02 
+Board [8c 6c 5c 5s 5d]
+Seat 1: LinPu showed [Js As] and lost with three of a kind, Fives
+Seat 2: Helmes46 showed [Ac Ad] and won ($0.67) with a full house, Fives full of Aces
+Seat 3: VV2T (button) folded before Flop (didn't bet)
+Seat 4: Korol rivera (small blind) folded before Flop
+Seat 5: CHECO97 (big blind) folded before Flop
+Seat 6: agwd69 folded before Flop
+Seat 7: daar888 folded before Flop (didn't bet)
+Seat 8: kubikandy92 folded before Flop (didn't bet)
+Seat 9: oleg197527 folded on the River
+
+
+

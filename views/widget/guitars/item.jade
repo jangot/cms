@@ -1,17 +1,21 @@
 div.guitarItem
-    table(data-id=guitar.id)
-        tr
-            th brand
-            th name
-            th neck
-            th deck
-            th photo
-        tr
-            td= guitar.brand
-            td= guitar.model
-            td= guitar.neck_material
-            td= guitar.deck_material
-            td
-                - var photo = 'default.png';
-                - if (guitar.photo) photo = guitar.photo;
-                img(src='#{USER_PHOTO_FOLDER}/#{photo}', width='200')
+    div.photo
+        - var photo = 'default.png';
+            - if (guitar.photo) photo = guitar.photo;
+            img(src='#{USER_PHOTO_FOLDER}/#{photo}')
+    ul
+        li.brand
+            span.label brand:
+            span= guitar.brand
+        li.price
+            span.label price:
+            span= guitar.price
+        li.model
+            span.label model:
+            span= guitar.model
+        li.neck
+            span.label neck:
+            span= guitar.neck_material
+        li.deck
+            span.label deck:
+            span= guitar.deck_material
